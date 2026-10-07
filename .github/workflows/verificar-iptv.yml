@@ -1,0 +1,25 @@
+name: Verificar IPTV estable
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+permissions:
+  contents: write
+concurrency:
+  group: iptv-verifier
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar streams y generar lista estable
+        run: python3 scripts/verificar_iptv.py
+      - name: Guardar resultados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add IPTV_Mundial_Jorge_ESTABLE.m3u stream_history.json estado_canales.txt
+          git diff --cached --quiet || git commit -m "Actualizar canales IPTV estables"
+          git push
