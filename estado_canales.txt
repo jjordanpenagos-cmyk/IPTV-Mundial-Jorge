@@ -1,4 +1,4 @@
 Total fuente: 12527
-Funcionaron esta ronda: 8294
-Lista estable (>=2 exitos en ultimas 3 rondas): 8406
-Generado UTC: 2026-10-15 17:07:17
+Funcionaron esta ronda: 8339
+Lista estable (>=2 exitos en ultimas 3 rondas): 8384
+Generado UTC: 2026-10-15 21:28:14
