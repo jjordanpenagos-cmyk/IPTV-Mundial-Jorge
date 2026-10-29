@@ -11,8 +11,6 @@ https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaSUR.pe@SD" tvg-logo="https://i.imgur.com/4aHrD2l.jpeg" group-title="Peru | General",Antena SUR (720p)
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="AsiriTV.pe@SD" tvg-logo="https://i.imgur.com/7bGVFBa.png" group-title="Peru | General",AsiriTV (720p) [Not 24/7]
-https://video2.lhdserver.es/asiritv/live.m3u8
 #EXTINF:-1 tvg-id="AtlantisRadioTV.pe@SD" tvg-logo="https://i.imgur.com/1eB9roP.png" group-title="Peru | General",Atlantis Radio TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="ATV.pe@SD" tvg-logo="https://i.imgur.com/eUzYZfg.png" group-title="Peru | General",ATV (Peru) (1080p)
@@ -195,6 +193,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="Teleselva.pe@SD" tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Peru | General",Teleselva (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesystemTV.pe@SD" tvg-logo="https://i.imgur.com/CI4CNgL.jpeg" group-title="Peru | General",Telesystem TV (720p)
+https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionTarapoto.pe@SD" tvg-logo="https://i.imgur.com/Dzen7sh.png" group-title="Peru | General",Television Tarapoto (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/tvtarapotoSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TeveEmpresa.pe@SD" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png" group-title="Peru | General",Teve Empresa (720p)
@@ -629,6 +629,8 @@ https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
 https://livestream.telvue.com/berkscmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BestofBATVChannel.us@SD" tvg-logo="https://i.imgur.com/TUMiKCX.png" group-title="Estados Unidos | General",Best of BATV Channel
 https://livestream.telvue.com/billerica4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BestofDrPhil.us@SD" tvg-logo="https://i.imgur.com/Jj0wTFQ.png" group-title="Estados Unidos | General",Best of Dr Phil
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us@SD" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" group-title="Estados Unidos | General",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 tvg-id="BETClassicsPlutoTV.us@SD" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png" group-title="Estados Unidos | General",BET Classics Pluto TV
@@ -899,6 +901,8 @@ https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="ColdCaseFiles.us@SD" tvg-logo="https://i.imgur.com/mowSfj6.png" group-title="Estados Unidos | General",Cold Case Files (1080p)
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us@SD" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Estados Unidos | General",Comedy Central Animation
+https://jmp2.uk/plu-64f8a949f5b5e4000862467c.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralenEspanol.us@SD" tvg-logo="https://i.imgur.com/6xTD3G8.png" group-title="Estados Unidos | General",Comedy Central en Espanol
 https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="Estados Unidos | General",Comedy Central Pluto TV
@@ -1097,6 +1101,8 @@ https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
 #EXTINF:-1 tvg-id="FNX.us@KVCRDT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FNX_Web_Logo.png" group-title="Estados Unidos | General",FNX KVCR-DT [Geo-blocked]
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="ForensicFiles.us@SD" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="Estados Unidos | General",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="ForeverKids.us@SD" tvg-logo="https://i.imgur.com/deeQqYZ.png" group-title="Estados Unidos | General",Forever Kids
 https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KBSI" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="Estados Unidos | General",Fox (United States) KBSI (720p) [Not 24/7]
@@ -1131,6 +1137,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WXXVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="Estados Unidos | General",Fox (United States) WXXV-TV (720p)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="Estados Unidos | General",Fox Business Network (576p)
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="Estados Unidos | General",Fox News Channel (720p)
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="Estados Unidos | General",Fox News Radio (720p)
@@ -1169,6 +1177,8 @@ https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
 https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GanjeHozourTV.us@SD" tvg-logo="https://i.imgur.com/TnQYtKh.png" group-title="Estados Unidos | General",Ganj e Hozour TV (1080p)
 https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GarfieldandFriends.us@US" tvg-logo="https://i.imgur.com/evzfe9C.png" group-title="Estados Unidos | General",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
 #EXTINF:-1 tvg-id="GCNAmerica.us@SD" tvg-logo="https://i.imgur.com/DWSWrtV.png" group-title="Estados Unidos | General",GCN America (720p)
 http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GEBNetwork.us@KBPXLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/GEB_logo_blue.png" group-title="Estados Unidos | General",GEB Network KBPX-LD (1080p)
@@ -1177,6 +1187,8 @@ https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GenesisScienceNetwork.us@SD" tvg-logo="https://i.imgur.com/CFAn996.png" group-title="Estados Unidos | General",Genesis Science Network (720p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:206018-2645902/playlist.m3u8
+#EXTINF:-1 tvg-id="GiggleMug.us@SD" tvg-logo="https://i.imgur.com/NbNHJXo.png" group-title="Estados Unidos | General",Giggle Mug (576p)
+https://tvsen6.aynaott.com/ytv/index.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel189.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" group-title="Estados Unidos | General",Gillette Public Access Television Channel 189
 https://securestream11.champds.com/LIVE/GilletteWYLIVE3/GilletteWYLIVE3.m3u8
 #EXTINF:-1 tvg-id="GillettePublicAccessTelevisionChannel190.us@SD" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMoPQ32FU8R2lR71LXhYrC3tCHfjJEXcm6E9PEO=s176-c-k-c0x00ffffff-no-rj" group-title="Estados Unidos | General",Gillette Public Access Television Channel 190
@@ -1653,18 +1665,22 @@ https://live.nowtelly.com/now_spanish/live/playlist.m3u8
 https://live.nowtelly.com/now_usa/live_usa/playlist.m3u8
 #EXTINF:-1 tvg-id="News12Bronx.us@SD" tvg-logo="https://i.imgur.com/d6xQiaf.png" group-title="Estados Unidos | General",News12 Bronx [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12Conneticut.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="Estados Unidos | General",News12 Conneticut [Geo-blocked]
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12Brooklyn.us@SD" tvg-logo="https://i.imgur.com/fvcOzzK.png" group-title="Estados Unidos | General",News12 Brooklyn [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12HudsonValley.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="Estados Unidos | General",News12 Hudson Valley [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12LongIsland.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="Estados Unidos | General",News12 Long Island (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-id="News12NewJersey.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="Estados Unidos | General",News12 New Jersey [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
-#EXTINF:-1 tvg-id="News12Westchester.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/News_12_logo_2019.png/960px-News_12_logo_2019.png" group-title="Estados Unidos | General",News12 Westchester [Geo-blocked]
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 tvg-id="News12PlusConnecticut.us@HD" tvg-logo="https://i.ibb.co/n8m2mcsV/news12plus-CT.jpg" group-title="Estados Unidos | General",News12+ Connecticut (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusHudsonValley.us@HD" tvg-logo="https://i.ibb.co/cKkdC203/news12plus-HV.jpg" group-title="Estados Unidos | General",News12+ Hudson Valley (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusLongIsland.us@HD" tvg-logo="https://i.ibb.co/p6FPNcCk/news12plus-LI.jpg" group-title="Estados Unidos | General",News12+ Long Island (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
+#EXTINF:-1 tvg-id="News12PlusNewJersey.us@HD" tvg-logo="https://i.ibb.co/qYCVcWDV/news12plus-NJ.jpg" group-title="Estados Unidos | General",News12+ New Jersey (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News12PlusNewYork.us@HD" tvg-logo="https://i.ibb.co/tThKYM09/news12plus-NYC.jpg" group-title="Estados Unidos | General",News12+ New York (1080p) [Geo-blocked]
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="Newsmax2.us@SD" tvg-logo="https://i.imgur.com/iE1izWq.png" group-title="Estados Unidos | General",Newsmax 2 (1080p)
@@ -2237,6 +2253,8 @@ https://the-pet-collective-international-dk.samsung.wurl.tv/playlist.m3u8
 https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRight.us@HD" tvg-logo="https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png" group-title="Estados Unidos | General",The Price Is Right
 https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
+#EXTINF:-1 tvg-id="ThePriceIsRightTheBarkerEra.us@SD" tvg-logo="https://i.imgur.com/LuE8Wl4.png" group-title="Estados Unidos | General",The Price Is Right: The Barker Era (720p)
+https://jmp2.uk/plu-64c220e15dc1660008a79c96.m3u8
 #EXTINF:-1 tvg-id="TheRifleman.us@SD" tvg-logo="https://i.imgur.com/60YejJs.png" group-title="Estados Unidos | General",The Rifleman
 https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
 #EXTINF:-1 tvg-id="TheWalkTV.us@SD" tvg-logo="https://i.imgur.com/p3RAxjp.png" group-title="Estados Unidos | General",The Walk TV
@@ -2259,6 +2277,8 @@ https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 #EXTINF:-1 tvg-id="TinTV.us@SD" tvg-logo="https://i.imgur.com/hMqGs94.png" group-title="Estados Unidos | General",Tin TV (720p)
 https://tulixcdn.akamaized.net/tintv6/tintv/tintv/playlist.m3u8
+#EXTINF:-1 tvg-id="TinyHouseNation.us@SD" tvg-logo="https://i.imgur.com/ai1P06C.png" group-title="Estados Unidos | General",Tiny House Nation (720p)
+https://jmp2.uk/plu-6540ff4f7312a40008297b59.m3u8
 #EXTINF:-1 tvg-id="TLN.ca@KQSL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TLN_2015.png/500px-TLN_2015.png" group-title="Estados Unidos | General",TLN KQSL (720p)
 https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TLNMediaChicago.us@SD" group-title="Estados Unidos | General",TLN Media Chicago (720p)
@@ -2451,6 +2471,8 @@ http://23.237.104.106:8080/USA_WE_TV/index.m3u8
 https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us@SD" tvg-logo="https://i.imgur.com/yHUUIIz.png" group-title="Estados Unidos | General",WeatherSpy (United States) (720p)
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="WeedsNurseJackie.us@SD" tvg-logo="https://images.pluto.tv/channels/688a44cf5d73ec0a3f49718b/colorLogoPNG_1756145413989.png" group-title="Estados Unidos | General",Weeds & Nurse Jackie (720p)
+https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 #EXTINF:-1 tvg-id="WeHoTV.us@SD" tvg-logo="https://i.imgur.com/p3L2vSL.png" group-title="Estados Unidos | General",WeHoTV (360p)
 https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
 #EXTINF:-1 tvg-id="WesternTV.us@SD" tvg-logo="https://i.imgur.com/nNy9oTx.png" group-title="Estados Unidos | General",Western TV
@@ -2537,6 +2559,12 @@ https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
 #EXTINF:-1 tvg-id="ZarinTV.us@SD" group-title="Estados Unidos | General",Zarin TV (1080p)
 https://fl1002.bozztv.com/gf-zarintv/index.m3u8
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-country="CA" group-title="CanadÃ¡ | Canada",Global News
+https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+#EXTINF:-1 tvg-id="CFSKDT.ca" tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-country="CA" group-title="CanadÃ¡ | Canada",Global News Saskatoon
+https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
+#EXTINF:-1 tvg-id="CKNDDT.ca" tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-country="CA" group-title="CanadÃ¡ | Canada",Global News Winnipeg
+https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 #EXTINF:-1 tvg-name="ICI Télé HD" tvg-logo="https://i.imgur.com/HsSi3NV.png" tvg-country="CA" group-title="CanadÃ¡ | Canada",ICI Télé HD Ⓖ
 https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
 #EXTINF:-1 tvg-id="12tv.es@SD" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="EspaÃ±a | General",12tv (720p)
@@ -2561,6 +2589,8 @@ https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="EspaÃ±a | General",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="EspaÃ±a | General",Andromeda
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Spanish" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="EspaÃ±a | General",Angel TV Spanish (720p)
 https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
 #EXTINF:-1 tvg-id="ArabiTV.es@SD" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="EspaÃ±a | General",Arabi TV (1080p)
@@ -2755,6 +2785,8 @@ https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 https://jmp2.uk/plu-5f1acbed25948a0007ffbe65.m3u8
 #EXTINF:-1 tvg-id="LosAsesinatosdeMidsomer.us@Spain" tvg-logo="https://i.imgur.com/JIbupT1.png" group-title="EspaÃ±a | General",Los Asesinatos de Midsomer
 https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
+#EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="EspaÃ±a | General",M95 Television Marbella (1080p) [Not 24/7]
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
 #EXTINF:-1 tvg-id="Medium.de@ES" tvg-logo="https://images.pluto.tv/channels/6578808014fbe400086e21bc/colorLogoPNG.png" group-title="EspaÃ±a | General",Medium (Germany)
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 tvg-id="Mijas340TV.es@SD" tvg-logo="https://i.imgur.com/RH1zLLs.png" group-title="EspaÃ±a | General",Mijas 3.40TV (720p)
@@ -2981,6 +3013,8 @@ https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
 #EXTINF:-1 tvg-id="BBCRadio4Extra.uk" tvg-name="BBC Radio 4 Extra" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" tvg-country="GB" group-title="Reino Unido | UK",BBC Radio 4 Extra
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
+#EXTINF:-1 tvg-id="BBCRadio5Live.uk" tvg-name="BBC Radio 5 Live" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5l-epg.png" tvg-country="GB" group-title="Reino Unido | UK",BBC Radio 5 Live
+https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000
 #EXTINF:-1 tvg-id="BBCRadio5SportsExtra.uk" tvg-name="BBC Radio 5 Sports Extra" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" tvg-country="GB" group-title="Reino Unido | UK",BBC Radio 5 Sports Extra
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000
 #EXTINF:-1 tvg-id="BBCRadio6Music.uk" tvg-name="BBC Radio 6 Music" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" tvg-country="GB" group-title="Reino Unido | UK",BBC Radio 6 Music
@@ -3057,6 +3091,8 @@ https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-country="IT" group-title="Italia | Italy",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-country="IT" group-title="Italia | Italy",Donna TV Ⓢ
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Easy Tv Canale 190" tvg-logo="https://i.imgur.com/LKrVuRR.jpg" tvg-country="IT" group-title="Italia | Italy",Easy Tv Canale 190
 https://diretta.arcapuglia.it:8080/live/easytv/index.m3u8
 #EXTINF:-1 tvg-name="Enjoy Television" tvg-logo="https://hostux.pics/images/2026/09/11/04_enjoy_television1ad11f59484e0115.png" tvg-country="IT" group-title="Italia | Italy",Enjoy Television
@@ -3085,6 +3121,8 @@ https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
 https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8
 #EXTINF:-1 tvg-name="Globus Television" tvg-logo="https://i.imgur.com/yUTYqCv.png" tvg-country="IT" group-title="Italia | Italy",Globus Television
 https://cdn.cubws.com/live/globus.m3u8
+#EXTINF:-1 tvg-id="GoldTV.it" tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-country="IT" group-title="Italia | Italy",Gold Tv
+https://5f11919dca3bd.streamlock.net/goldtv/goldtv/playlist.m3u8
 #EXTINF:-1 tvg-name="GRP Televisione" tvg-logo="https://i.imgur.com/1zNPpVE.png" tvg-country="IT" group-title="Italia | Italy",GRP Televisione
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:-1 tvg-id="HGTVItaly.it" tvg-name="HGTV – Home & Garden Tv" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-country="IT" group-title="Italia | Italy",HGTV – Home & Garden Tv
@@ -3099,6 +3137,8 @@ https://2-fss-1.streamhoster.com/pl_148/206202-2980948-1/playlist.m3u8
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-name="Lab Tv" tvg-logo="https://i.imgur.com/OpRS6Fl.png" tvg-country="IT" group-title="Italia | Italy",Lab Tv
 https://customer-yzibk50951uq418a.cloudflarestream.com/a58893dee4b9922a75e41b4ec4243f84/manifest/video.m3u8
+#EXTINF:-1 tvg-name="Lazio Tv" tvg-logo="https://i.imgur.com/DAj5Uwb.png" tvg-country="IT" group-title="Italia | Italy",Lazio Tv
+https://5f11919dca3bd.streamlock.net/laziotv/laziotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Le Cronache Lucane Tv" tvg-logo="https://i.imgur.com/EBY3IZL.jpg" tvg-country="IT" group-title="Italia | Italy",Le Cronache Lucane Tv
 http://stucazz.com:8888/hls/cronache.m3u8
 #EXTINF:-1 tvg-id="Manga.it" tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" tvg-country="IT" group-title="Italia | Italy",MAN-GA
@@ -3257,8 +3297,6 @@ https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a9
 https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Tele Bruzzano" tvg-logo="https://i.imgur.com/7TWbCDt.jpg" tvg-country="IT" group-title="Italia | Italy",Tele Bruzzano
 https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
-#EXTINF:-1 tvg-name="Tele Cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" tvg-country="IT" group-title="Italia | Italy",Tele Cupole
-https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Foggia" tvg-logo="https://i.imgur.com/M7tqBu9.jpg" tvg-country="IT" group-title="Italia | Italy",Tele Foggia
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 #EXTINF:-1 tvg-name="Tele Golfo RTG" tvg-logo="https://hostux.pics/images/2026/09/11/23_tele_golfo_rtg82613af55dc2f27c.png" tvg-country="IT" group-title="Italia | Italy",Tele Golfo RTG
@@ -3351,6 +3389,8 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
 https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-country="PT" group-title="Portugal | Portugal",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-name="L1" tvg-logo="https://i.imgur.com/Jyhn1iP.png" tvg-country="NL" group-title="PaÃ­ses Bajos | Netherlands",L1 Ⓢ
+http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-name="NH Nieuws" tvg-logo="https://i.imgur.com/SQPVOwn.png" tvg-country="NL" group-title="PaÃ­ses Bajos | Netherlands",NH Nieuws
 https://rrr.sz.xlcdn.com/?account=nhnieuws&file=live&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepBrabantTV.nl" tvg-name="Omroep Brabant" tvg-logo="https://i.imgur.com/Jv7IjHJ.png" tvg-country="NL" group-title="PaÃ­ses Bajos | Netherlands",Omroep Brabant
@@ -3389,8 +3429,6 @@ https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
 http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8
 #EXTINF:-1 tvg-id="IRRTV.fi" tvg-name="Alfa" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png" tvg-country="FI" group-title="Finlandia | Finland",Alfa Ⓢ
 https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
-#EXTINF:-1 tvg-id="Frii.fi" tvg-name="Frii" tvg-logo="https://i.imgur.com/ljKoG9I.png" tvg-country="FI" group-title="Finlandia | Finland",Frii
-https://live-fi.tvkaista.net/frii/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="HimlenTV7.fi" tvg-name="Himlen TV7" tvg-logo="https://i.imgur.com/a4iNVXA.png" tvg-country="FI" group-title="Finlandia | Finland",Himlen TV7
 https://vod.tv7.fi/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AVA.fi" tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-country="FI" group-title="Finlandia | Finland",MTV Ava
@@ -3407,8 +3445,6 @@ https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8?organizationId=834594
 https://live-fi.tvkaista.net/star-channel/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="TaivasTV7.fi" tvg-name="Taivas TV7" tvg-logo="https://i.imgur.com/a4iNVXA.png" tvg-country="FI" group-title="Finlandia | Finland",Taivas TV7
 https://vod.tv7.fi/tv7-fi/_definst_/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TLCFinland.fi" tvg-name="TLC Finland" tvg-logo="https://i.imgur.com/0d5hP3A.png" tvg-country="FI" group-title="Finlandia | Finland",TLC Finland
-https://live-fi.tvkaista.net/tlc/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="BelsatTV.pl" tvg-name="Belsat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Belsat_%282022%29.svg/960px-Belsat_%282022%29.svg.png" tvg-country="PL" group-title="Polonia | Poland",Belsat
 https://iptv.prosto.tv/ch171/index.m3u8
 #EXTINF:-1 tvg-id="98fm.com" tvg-name="98FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/98FM_2022.svg/1920px-98FM_2022.svg.png" tvg-country="IE" group-title="Irlanda | Ireland",98FM
@@ -3613,6 +3649,8 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 https://old.kuzeykibris.tv/m3u8/kktv.m3u8
 #EXTINF:-1 tvg-id="NovaAction.cz" tvg-name="Nova Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" tvg-country="CZ" group-title="CZ | Czech Republic",Nova Action
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+#EXTINF:-1 tvg-id="NovaCinema.cz" tvg-name="Nova Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" tvg-country="CZ" group-title="CZ | Czech Republic",Nova Cinema
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 #EXTINF:-1 tvg-id="NovaFun.cz" tvg-name="Nova Fun" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" tvg-country="CZ" group-title="CZ | Czech Republic",Nova Fun
 https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
 #EXTINF:-1 tvg-id="NovaGold.cz" tvg-name="Nova Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" tvg-country="CZ" group-title="CZ | Czech Republic",Nova Gold
@@ -3799,6 +3837,8 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Mundo | Argentina",Canal 4 Posadas (1080p)
 http://190.128.214.97:64333/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Mundo | Argentina",Canal 4 San Juan (576p)
+https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar@SD" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="Mundo | Argentina",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar@SD" tvg-logo="https://i.imgur.com/ZKSnGfw.png" group-title="Mundo | Argentina",Canal 4 Villa Dolores
@@ -4173,6 +4213,10 @@ https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
 https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Mundo | Austria",Comedy Central (Germany)
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+#EXTINF:-1 tvg-id="DAZNDartsxPlutoTV.de@DACH" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Mundo | Austria",DAZN Darts x Pluto TV
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 tvg-id="DAZNHeldinnenxPlutoTV.de@DACH" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Mundo | Austria",DAZN Heldinnen x Pluto TV
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="DrakeJosh.de@DACH" tvg-logo="https://images.pluto.tv/channels/65a67c494a10d800085cab06/colorLogoPNG.png" group-title="Mundo | Austria",Drake & Josh
 https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Mundo | Austria",FIFA+ German (720p)
@@ -4301,6 +4345,8 @@ https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de@DACH" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Mundo | Austria",Star Trek: The Original Series (Germany)
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+#EXTINF:-1 tvg-id="SteiermarkTV.at@SD" tvg-logo="https://i.imgur.com/AJrUPze.png" group-title="Mundo | Austria",Steiermark TV (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="SwamijiTVAmerican.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Mundo | Austria",Swamiji TV American (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVEuropean.at@SD" tvg-logo="https://i.imgur.com/nrLcuzs.png" group-title="Mundo | Austria",Swamiji TV European (1080p) [Not 24/7]
@@ -4357,6 +4403,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png" group-title="Mundo | Bangladesh",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNBangla.bd@SD" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="Mundo | Bangladesh",ATN Bangla (720p)
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="AzanTV.ca@SD" tvg-logo="https://i.imgur.com/JlqS6I4.jpeg" group-title="Mundo | Bangladesh",Azan TV
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 #EXTINF:-1 tvg-id="BanglaVision.bd@SD" tvg-logo="https://i.imgur.com/nCWgp38.png" group-title="Mundo | Bangladesh",Bangla Vision (720p)
@@ -4371,8 +4419,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-1 tvg-id="EkusheyTV.bd@SD" tvg-logo="https://i.imgur.com/lRpkGHj.png" group-title="Mundo | Bangladesh",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id="GreenTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg" group-title="Mundo | Bangladesh",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MaasrangaTV.bd@SD" tvg-logo="https://i.imgur.com/uVZJMed.png" group-title="Mundo | Bangladesh",Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelBangla.bd@SD" tvg-logo="https://i.imgur.com/vIJTVia.png" group-title="Mundo | Bangladesh",Madani Channel Bangla (1080p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 tvg-id="MatribhumiTV.bd@HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/matribhumi.jpg" group-title="Mundo | Bangladesh",Matribhumi TV (720p)
@@ -4395,6 +4443,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1 tvg-id="RajdhaniTV.bd@SD" tvg-logo="https://i.imgur.com/MBm2gPz.jpeg" group-title="Mundo | Bangladesh",Rajdhani TV SD (1080p)
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1 tvg-id="RTV.bd@SD" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="Mundo | Bangladesh",RTV (Bangladesh) (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Rupashi_Bangla.png" group-title="Mundo | Bangladesh",Rupashi Bangla TV (720p)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-logo="https://i.imgur.com/IlufzR5.png" group-title="Mundo | Bangladesh",Star Jalsha HD (720p)
@@ -4403,8 +4453,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b19
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1 tvg-id="CBCTV8.bb@SD" tvg-logo="https://i.imgur.com/WsD83lq.png" group-title="Mundo | Barbados",CBC TV8 (1080p) [Not 24/7]
 https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
-#EXTINF:-1 tvg-id="Belarus1.by@SD" tvg-logo="https://i.imgur.com/sUD9t5j.png" group-title="Mundo | Belarus",Belarus-1 (1080p)
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus2.by@HD" tvg-logo="https://i.imgur.com/BpEHpPS.png" group-title="Mundo | Belarus",Belarus-2 HD (1080p)
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Belarus24.by@SD" tvg-logo="https://i.imgur.com/BP7tY6F.png" group-title="Mundo | Belarus",Belarus-24 (576p)
@@ -4417,6 +4465,8 @@ https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8
 http://46.53.200.153:7777/play/Bug_TV_HD/index.m3u8
 #EXTINF:-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png" group-title="Mundo | Belarus",First Music Channel (1080p)
 http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="RTGint.ru@SD" tvg-logo="https://i.imgur.com/ZpUNou4.png" group-title="Mundo | Belarus",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Belarus",RTG int.
+http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1 tvg-id="RadioMir.by@SD" tvg-logo="https://pbs.twimg.com/profile_images/1902997619724480512/jY6I1qIH_400x400.jpg" group-title="Mundo | Belarus",Radio Mir (720p)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Soyuzny.ru@SD" tvg-logo="https://www.mtis.by/upload/medialibrary/717/v07nk6rmf6m1mno8ujhbkcg8nstkfjgv/Slide%2016_9%20-%2050.png" group-title="Mundo | Belarus",Soyuzny (576p)
@@ -4575,6 +4625,8 @@ https://stream2.nostvbonaire.com/hls/0/stream.m3u8
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD" tvg-logo="https://i.imgur.com/xUOspBx.png" group-title="Mundo | Bosnia and Herzegovina",Maria+Vision Medjugorje (720p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Mundo | Bosnia and Herzegovina",Mezzo Live (1080p)
+http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" tvg-logo="https://i.imgur.com/BXFPz8c.png" group-title="Mundo | Bosnia and Herzegovina",Newsmax Balkans (1080p)
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
 #EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-logo="https://i.imgur.com/k06WvYl.png" group-title="Mundo | Bosnia and Herzegovina",RTRS plus (576p) [Not 24/7]
@@ -4621,6 +4673,8 @@ https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 #EXTINF:-1 tvg-id="BMCNews.br@SD" tvg-logo="https://i.imgur.com/pOUY2Uz.png" group-title="Mundo | Brazil",BM&C News (720p)
 https://jmp2.uk/plu-666c9c60a7efd40008f552f0.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="Mundo | Brazil",Boas Novas (1080p)
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us@BR" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Mundo | Brazil",Bob Esponja Calca Quadrada (720p)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Mundo | Brazil",Box Kids TV (720p)
@@ -4673,6 +4727,8 @@ https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Mundo | Brazil",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-id="EUTV.br@SD" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="Mundo | Brazil",EUTV (720p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="FailArmy.us@Brazil" tvg-logo="https://i.imgur.com/VIpQJxL.png" group-title="Mundo | Brazil",FailArmy Brazil
 https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
 #EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="Mundo | Brazil",Fala Litoral (480p)
@@ -4681,8 +4737,6 @@ https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171d3442a0500007362f22/colorLogoPNG.png" group-title="Mundo | Brazil",Filmes Suspense
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="Mundo | Brazil",Fonte TV
-https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
 #EXTINF:-1 tvg-id="ForaTedioTV.br@SD" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="Mundo | Brazil",Fora Tedio TV (720p)
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 #EXTINF:-1 tvg-id="geFast.br@SD" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Mundo | Brazil",ge Fast (1080p)
@@ -4719,6 +4773,8 @@ https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="Mundo | Brazil",Lifetime Latin America Brazil (720p)
 http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="Mundo | Brazil",like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Brazil",TV Bahia (1080i)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Mundo | Brazil",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Brazil",Nickelodeon (Brazil) (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Loading.br@SD" tvg-logo="https://i.imgur.com/R0aflu1.png" group-title="Mundo | Brazil",Loading (720p)
@@ -4787,6 +4843,8 @@ https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="Mundo | Brazil",Play TV (Brazil) (720p)
 http://45.162.64.114/PLAY_TV/index.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="Mundo | Brazil",Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 #EXTINF:-1 tvg-id="PlenitudeTV.br@SD" group-title="Mundo | Brazil",Plenitude TV
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAliens.us@BR" tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" group-title="Mundo | Brazil",Pluto TV Aliens
@@ -4891,6 +4949,8 @@ https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="ProntosocorroHistoriasDeEmergencia.us@Brazil" tvg-logo="https://i.imgur.com/0PkyJ3U.png" group-title="Mundo | Brazil",Pronto-socorro: Historias De Emergencia
 https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1 tvg-id="RBATV.br@SD" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Mundo | Brazil",RBATV (720p)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RecordNews.br@SD" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="Mundo | Brazil",Record News (720p)
 http://45.162.64.114/RECORD_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD" tvg-logo="https://i.imgur.com/VcHy0fu.png" group-title="Mundo | Brazil",RecordTV Interior SP
@@ -4919,6 +4979,8 @@ http://45.162.64.114/REDE_TV/index.m3u8
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="RITTV.br@SD" tvg-logo="https://i.imgur.com/Unjs1wi.png" group-title="Mundo | Brazil",RIT TV (1080p)
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Mundo | Brazil",SBT Interior (720p)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Mundo | Brazil",SBT Nacional (1080p)
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="SBTNews.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/SBT_News_2025.svg" group-title="Mundo | Brazil",SBT News (720p)
@@ -4933,8 +4995,6 @@ https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
 http://170.83.16.50/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Mundo | Brazil",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="Mundo | Brazil",SOU TV
-https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoCartman.us@BR" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Mundo | Brazil",South Park: Colecao Cartman
 https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 #EXTINF:-1 tvg-id="SouthParkColecaoKenny.us@BR" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="Mundo | Brazil",South Park: Colecao Kenny
@@ -5065,12 +5125,18 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Mundo | Brazil",TV Vicosa (480p)
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Mundo | Brazil",TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br@SD" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" group-title="Mundo | Brazil",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOMMaceio.br@SD" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="Mundo | Brazil",TVCOM Maceio (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCRio.br@SD" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="Mundo | Brazil",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png" group-title="Mundo | Brazil",TVE Bahia (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 tvg-id="TVERS.br@SD" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="Mundo | Brazil",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br@SD" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="Mundo | Brazil",TVideoNews (720p) [Not 24/7]
 https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 #EXTINF:-1 tvg-id="TVitape.br@SD" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="Mundo | Brazil",TVitape (720p)
@@ -5097,18 +5163,62 @@ https://shift03.isp.bg/BNT1_HD/index.m3u8
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="Mundo | Bulgaria",BNT 4 (1080p)
 https://shift03.isp.bg/BNT4_HD/index.m3u8
+#EXTINF:-1 tvg-id="CineStar1Bulgaria.bg@SD" tvg-logo="https://i.imgur.com/t9vVTLH.png" group-title="Mundo | Bulgaria",CineStar 1 Bulgaria
+http://213.91.179.28:8000/play/a05h
 #EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Mundo | Bulgaria",City TV (Bulgaria) (576p) [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
-#EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Mundo | Bulgaria",Code Fashion TV (1080p)
-https://cdn2.invivo.bg/Codefashion_5500/index.m3u8
-#EXTINF:-1 tvg-id="CodeHealthTV.bg@SD" tvg-logo="https://i.imgur.com/NXBMzGV.png" group-title="Mundo | Bulgaria",Code Health TV (1080p)
-https://cdn2.invivo.bg/codehealth_test/index.m3u8
 #EXTINF:-1 tvg-id="DSTV.bg@SD" tvg-logo="https://i.imgur.com/YMgzzkf.png" group-title="Mundo | Bulgaria",DSTV (Bulgaria) (614p) [Not 24/7]
 http://46.249.95.140:8081/hls/data.m3u8
 #EXTINF:-1 tvg-id="EKids.bg@SD" group-title="Mundo | Bulgaria",EKids (576p)
 http://78.108.244.134:8899/ekids
+#EXTINF:-1 tvg-id="ID.bg@SD" group-title="Mundo | Bulgaria",ID
+http://213.91.179.28:8000/play/a0cf
+#EXTINF:-1 tvg-id="78TV.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Seven-Eight-TV.png/960px-Seven-Eight-TV.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",7/8 TV
+http://213.91.179.28:8000/play/a0cn
+#EXTINF:-1 tvg-id="BloombergTVBulgaria.bg@SD" tvg-logo="https://i.imgur.com/cHwOVqk.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Bloomberg TV Bulgaria
+http://213.91.179.28:8000/play/a04m
+#EXTINF:-1 tvg-id="BOXTV.bg@SD" tvg-logo="https://i.imgur.com/swFzesA.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",BOX TV
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1 tvg-id="bTV.bg@SD" tvg-logo="https://i.imgur.com/l47z7gw.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV
+http://213.91.179.28:8000/play/a03w
+#EXTINF:-1 tvg-id="bTVAction.bg@SD" tvg-logo="https://i.imgur.com/hGUXHuT.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Action
+http://213.91.179.28:8000/play/a04n
+#EXTINF:-1 tvg-id="bTVCinema.bg@SD" tvg-logo="https://i.imgur.com/uV81rS4.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Cinema
+http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 tvg-id="bTVComedy.bg@SD" tvg-logo="https://i.imgur.com/1c6A5dO.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Comedy
+http://213.91.179.28:8000/play/a04k
+#EXTINF:-1 tvg-id="bTVLady.bg@SD" tvg-logo="https://i.imgur.com/rXBPJ1e.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",bTV Lady
+http://213.91.179.28:8000/play/a05i
+#EXTINF:-1 tvg-id="BulgariaOnAir.bg@SD" tvg-logo="https://i.imgur.com/mvShl7F.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Bulgaria On Air
+http://213.91.179.28:8000/play/a05x
 #EXTINF:-1 tvg-id="cinebox.bg@SD" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",cine.box
 http://212.70.131.37:8000/play/a08b
+#EXTINF:-1 tvg-id="Diema.bg@SD" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema
+http://213.91.179.28:8000/play/a045
+#EXTINF:-1 tvg-id="DiemaFamily.bg@SD" tvg-logo="https://i.imgur.com/SgNVY4d.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Diema Family
+http://213.91.179.28:8000/play/a047
+#EXTINF:-1 tvg-id="DisneyChannel.bg@SD" tvg-logo="https://i.imgur.com/UxrAiAe.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Disney Channel (Bulgaria)
+http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-id="EuronewsBulgaria.bg@SD" tvg-logo="https://i.imgur.com/RrQVoOg.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Euronews Bulgaria
+http://213.91.179.28:8000/play/a05e
+#EXTINF:-1 tvg-id="FILMBOXPlusEmotion.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",FILMBOX+ Emotion Bulgaria
+http://213.91.179.28:8000/play/a04r
+#EXTINF:-1 tvg-id="H2.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",H2
+http://213.91.179.28:8000/play/a03r
+#EXTINF:-1 tvg-id="History.bg@SD" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",History (Bulgaria)
+http://213.91.179.28:8000/play/a0c1
+#EXTINF:-1 tvg-id="HitMixMusic.bg@SD" tvg-logo="https://i.imgur.com/Gbaxq6P.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Hit Mix Music
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1 tvg-id="KinoNova.bg@SD" tvg-logo="https://i.imgur.com/hMqEY0J.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Kino Nova
+http://213.91.179.28:8000/play/a041
+#EXTINF:-1 tvg-id="Nostalgia.bg@SD" tvg-logo="https://i.imgur.com/JU1dFfK.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Nostalgia (Bulgaria)
+http://213.91.179.28:8000/play/a03q
+#EXTINF:-1 tvg-id="Nova.bg@SD" tvg-logo="https://i.imgur.com/WCsPSLX.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Nova (Bulgaria)
+http://213.91.179.28:8000/play/a03l
+#EXTINF:-1 tvg-id="NovaNews.bg@SD" tvg-logo="https://i.imgur.com/s6IryS3.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",Nova News
+http://213.91.179.28:8000/play/a063
+#EXTINF:-1 tvg-id="RING.bg@SD" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",RING
+http://213.91.179.28:8000/play/a06e
 #EXTINF:-1 tvg-id="TV1000.bg@SD" tvg-logo="https://i.imgur.com/GHNsctR.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Bulgaria",TV1000
 http://85.14.32.26:8800/udp/239.100.10.100:5000
 #EXTINF:-1 tvg-id="MovieStar.bg@SD" tvg-logo="https://i.imgur.com/DdZH49P.png" group-title="Mundo | Bulgaria",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Bulgaria",Movie Star (720p)
@@ -5187,32 +5297,46 @@ https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
 https://stream.az-multimedia.com:3325/live/foryoutvlive.m3u8
 #EXTINF:-1 tvg-id="LauraDaveMediaTV.cm@SD" tvg-logo="https://i.imgur.com/zzG1S2n.png" group-title="Mundo | Cameroon",Laura Dave Media TV (720p)
 https://streaming.lauradavemedia.com/ldm/index.m3u8
-#EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-logo="https://i.imgur.com/vh2373L.png" group-title="Mundo | Cameroon",My TV Channel (720p) [Not 24/7]
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="PanafricanMediaTV.cm@SD" tvg-logo="https://i.imgur.com/wneSSYM.png" group-title="Mundo | Cameroon",Panafrican Media TV (480p)
 https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" group-title="Mundo | Cameroon",PLEX TV
-http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
 #EXTINF:-1 tvg-id="TR24Television.cm@SD" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" group-title="Mundo | Cameroon",TR24 Television (720p)
 https://stream.it-innov.com/tr24/index.m3u8
 #EXTINF:-1 tvg-id="3ABNCanada.ca@SD" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="Mundo | Canada",3ABN Canada (720p)
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:-1 tvg-id="48Hours.us@CA" tvg-logo="https://images.pluto.tv/channels/6176f39e709f160007ec61c3/colorLogoPNG.png" group-title="Mundo | Canada",48 Hours CA
+https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1 tvg-id="5AABTV.ca@SD" tvg-logo="https://i.imgur.com/jrGrfof.png" group-title="Mundo | Canada",5AAB TV (720p) [Not 24/7]
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="AE.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="Mundo | Canada",A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca@SD" tvg-logo="https://i.imgur.com/I0oPFTj.png" group-title="Mundo | Canada",Amazing Discoveries TV (720p)
 https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasNextTopModel.us@CA" tvg-logo="https://images.pluto.tv/channels/68679fc6bb46d0bdd38ac9a4/colorLogoPNG_1756466390265.png" group-title="Mundo | Canada",America's Next Top Model CA
+https://jmp2.uk/plu-68679fc6bb46d0bdd38ac9a4.m3u8
 #EXTINF:-1 tvg-id="AnimationPlus.us@SD" tvg-logo="https://i.imgur.com/OIFK6JB.png" group-title="Mundo | Canada",Animation+ (1080p) [Geo-blocked]
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD" tvg-logo="https://i.imgur.com/di3XX5L.png" group-title="Mundo | Canada",Az Star TV (1080p)
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="BarRescue.us@CA" tvg-logo="https://images.pluto.tv/channels/655f2ee6c0fc88000877d26c/colorLogoPNG.png" group-title="Mundo | Canada",Bar Rescue CA
+https://jmp2.uk/plu-655f2ee6c0fc88000877d26c.m3u8
+#EXTINF:-1 tvg-id="BestofTheDrewBarrymoreShow.us@CA" tvg-logo="https://images.pluto.tv/channels/6310cbee5a8ad300070fdb7c/colorLogoPNG.png" group-title="Mundo | Canada",Best of The Drew Barrymore Show (United States)
+https://jmp2.uk/plu-6310cbee5a8ad300070fdb7c.m3u8
+#EXTINF:-1 tvg-id="Bobleponge.us@CA" tvg-logo="https://images.pluto.tv/channels/66588931a3865300085ca800/colorLogoPNG.png" group-title="Mundo | Canada",Bob l'eponge (720p)
+https://jmp2.uk/plu-66588931a3865300085ca800.m3u8
+#EXTINF:-1 tvg-id="Bonanza.us@CA" tvg-logo="https://images.pluto.tv/channels/696e647b07ea70192d49f6a5/colorLogoPNG_1768842647658.png" group-title="Mundo | Canada",Bonanza CA
+https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
+#EXTINF:-1 tvg-id="BondiRescue.us@CA" tvg-logo="https://images.pluto.tv/channels/66166989635c7500084105a2/colorLogoPNG.png" group-title="Mundo | Canada",Bondi Rescue (United States) (720p)
+https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
+#EXTINF:-1 tvg-id="BritishComedy.us@CA" tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png" group-title="Mundo | Canada",British Comedy
+https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-logo="https://i.imgur.com/rpg0bQA.png" group-title="Mundo | Canada",C Malayalam TV (1080p)
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
 #EXTINF:-1 tvg-id="CanadaOne.ca@SD" group-title="Mundo | Canada",Canada One (720p) [Not 24/7]
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetwork.ca@SD" tvg-logo="https://i.imgur.com/SjTdhvJ.png" group-title="Mundo | Canada",CBC News Network (1080p)
 https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8
+#EXTINF:-1 tvg-id="Cheers.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb7f0db2eb30007376d4d/colorLogoPNG.png" group-title="Mundo | Canada",Cheers (United States)
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
 #EXTINF:-1 tvg-id="CityNewsCalgary.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Mundo | Canada",CityNews Calgary (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 #EXTINF:-1 tvg-id="CityNewsEdmonton.ca@SD" tvg-logo="https://m.media-amazon.com/images/I/51Icdznow+L.png" group-title="Mundo | Canada",CityNews Edmonton
@@ -5223,12 +5347,18 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 #EXTINF:-1 tvg-id="CKNOFM.ca@SD" tvg-logo="https://i.imgur.com/sF2g7KE.png" group-title="Mundo | Canada",CKNO-FM (616p)
 https://videostream.jpbgdigital.com/NOWTV.m3u8
+#EXTINF:-1 tvg-id="ClassicTVFamilies.us@CA" tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" group-title="Mundo | Canada",Classic TV: Families CA
+https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
+#EXTINF:-1 tvg-id="ComedyCentral.us@CA" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="Mundo | Canada",Comedy Central (United States) CA
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-id="CP24.ca@SD" tvg-logo="https://i.imgur.com/YzjZUEl.png" group-title="Mundo | Canada",CP24 (720p)
 http://107.167.16.138/cp24/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DesheBidesheTV.ca@SD" tvg-logo="https://i.imgur.com/Ek1Ohj6.png" group-title="Mundo | Canada",DesheBideshe TV
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 #EXTINF:-1 tvg-id="DocMartin.us@CA" tvg-logo="https://images.pluto.tv/channels/62e922f6675f71000736db3b/colorLogoPNG.png" group-title="Mundo | Canada",Doc Martin (United States)
 https://jmp2.uk/plu-62e922f6675f71000736db3b.m3u8
+#EXTINF:-1 tvg-id="DoraTV.us@CA" tvg-logo="https://i.imgur.com/zJuSbmU.png" group-title="Mundo | Canada",Dora TV
+https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
 #EXTINF:-1 tvg-id="DoyelTV.ca@SD" tvg-logo="https://i.imgur.com/8pR8Q4J.png" group-title="Mundo | Canada",Doyel TV
 https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
 #EXTINF:-1 tvg-id="DukhNivaran.ca@SD" tvg-logo="https://i.imgur.com/Zh60l1x.png" group-title="Mundo | Canada",Dukh Nivaran (720p) [Not 24/7]
@@ -5243,6 +5373,8 @@ https://hls.erfanhalgheh.live/hls/stream.m3u8
 https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@UnitedStates" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Mundo | Canada",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="Frasier.us@CA" tvg-logo="https://images.pluto.tv/channels/62f4f90e39183b000769f12b/colorLogoPNG.png" group-title="Mundo | Canada",Frasier (United States)
+https://jmp2.uk/plu-62f4f90e39183b000769f12b.m3u8
 #EXTINF:-1 tvg-id="GamePlus.ca@SD" tvg-logo="https://i.imgur.com/Lj69WbR.png" group-title="Mundo | Canada",Game+ (720p)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="Mundo | Canada",Gaunda Punjab TV (720p)
@@ -5253,8 +5385,14 @@ https://streamer12.vdn.dstreamone.net/carishowtime/showtime/chunks.m3u8
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="HamdardTV.ca@SD" tvg-logo="https://i.ibb.co/JcD2xck/logo-hamda.png" group-title="Mundo | Canada",Hamdard TV (1080p)
 https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 tvg-id="HappyDays.us@CA" tvg-logo="https://images.pluto.tv/channels/62e917b5e354cf0007b97a67/colorLogoPNG.png" group-title="Mundo | Canada",Happy Days (United States) CA
+https://jmp2.uk/plu-62e917b5e354cf0007b97a67.m3u8
+#EXTINF:-1 tvg-id="HauntTV.ca@CA" tvg-logo="https://images.pluto.tv/channels/63934c218ef524000757b122/colorLogoPNG.png" group-title="Mundo | Canada",HauntTV CA (720p)
+https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 #EXTINF:-1 tvg-id="HyderTV.ca@SD" tvg-logo="https://i.imgur.com/reHjjRZ.png" group-title="Mundo | Canada",Hyder TV (720p)
 https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ILoveLucy.us@CA" tvg-logo="https://images.pluto.tv/channels/63a2f1dda0d69700078b7cba/colorLogoPNG.png" group-title="Mundo | Canada",I Love Lucy CA
+https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
 #EXTINF:-1 tvg-id="IciRadioCanadaTele.ca@CFHDDT" tvg-logo="https://i.imgur.com/x0vLIWr.png" group-title="Mundo | Canada",Ici Radio-Canada Tele CFHD-DT (720p)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ICI_RDI_logo.svg/960px-ICI_RDI_logo.svg.png" group-title="Mundo | Canada",Ici RDI (720p)
@@ -5263,6 +5401,8 @@ https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 https://icnet1hls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="IIPCTV.ca@SD" tvg-logo="https://i.imgur.com/mIih39Y.png" group-title="Mundo | Canada",IIPC TV (720p)
 https://rpn.bozztv.com/dvrfl03/iipctv/index.m3u8
+#EXTINF:-1 tvg-id="InkMaster.us@CA" tvg-logo="https://images.pluto.tv/channels/655f2d713944b60008bc7e90/colorLogoPNG.png" group-title="Mundo | Canada",Ink Master CA
+https://jmp2.uk/plu-655f2d713944b60008bc7e90.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Mundo | Canada",INWILD (1080p)
 https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg00861-terninternation-inwild-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="JAG.us@CA" tvg-logo="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/colorLogoPNG.png" group-title="Mundo | Canada",JAG (United States)
@@ -5275,14 +5415,48 @@ https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playl
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca@HD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Mundo | Canada",Love Nature HD (1080p)
 https://mumbai-edge.smartplaytv.in/LoveNature/index.m3u8
+#EXTINF:-1 tvg-id="Matlock.us@CA" tvg-logo="https://images.pluto.tv/channels/63da365f60bc8f0008a50f44/colorLogoPNG.png" group-title="Mundo | Canada",Matlock (United States) CA
+https://jmp2.uk/plu-63da365f60bc8f0008a50f44.m3u8
 #EXTINF:-1 tvg-id="MHZ.ca@SD" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-title="Mundo | Canada",MHZ
 https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MissionImpossible.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea43aa0c43540007f2db96/colorLogoPNG.png" group-title="Mundo | Canada",Mission Impossible (United States) CA
+https://jmp2.uk/plu-62ea43aa0c43540007f2db96.m3u8
 #EXTINF:-1 tvg-id="MontrealGreekTV.ca@SD" tvg-logo="https://i.imgur.com/Y5YnUit.png" group-title="Mundo | Canada",Montreal Greek TV (480p)
 http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 tvg-id="MorePlutoTVComedy.us@CA" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="Mundo | Canada",More Pluto TV Comedy
+https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1 tvg-id="MovieMusicbyStingray.ca@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2CSpCdAxnLpqebMLZh6h7vMPk6LYpdqkVHA&s" group-title="Mundo | Canada",Movie Music by Stingray (1080p)
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="MovieSphere.us@CA" tvg-logo="https://i.imgur.com/h1ejU90.png" group-title="Mundo | Canada",MovieSphere CA
+https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@CA" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Mundo | Canada",MTV Biggest Pop CA (1080p)
+https://jmp2.uk/plu-65410176770cf1000866bf31.m3u8
+#EXTINF:-1 tvg-id="MTVCatfish.us@CA" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Mundo | Canada",MTV Catfish (United States)
+https://jmp2.uk/plu-64f8a2a23a0d700008a6ed7b.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@CA" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="Mundo | Canada",MTV Classic CA (720p)
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 tvg-id="MTVDating.us@CA" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="Mundo | Canada",MTV Dating (United States) CA
+https://jmp2.uk/plu-64f8a0c230ab3300084369b8.m3u8
+#EXTINF:-1 tvg-id="MTVJerseyShore.us@CA" tvg-logo="https://images.pluto.tv/channels/68b9b0dbf9cf3d7cb9f56d88/colorLogoPNG_1757455543454.png" group-title="Mundo | Canada",MTV Jersey Shore
+https://jmp2.uk/plu-68b9b0dbf9cf3d7cb9f56d88.m3u8
+#EXTINF:-1 tvg-id="MTVReality.us@CA" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="Mundo | Canada",MTV Reality (United States) CA
+https://jmp2.uk/plu-64f89fcfd661bb00081ba45c.m3u8
+#EXTINF:-1 tvg-id="MTVRidiculousness.us@CA" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="Mundo | Canada",MTV Ridiculousness (United States) CA
+https://jmp2.uk/plu-64f9cccf110545000837912e.m3u8
+#EXTINF:-1 tvg-id="MTVSpankinNew.us@CA" tvg-logo="https://images.pluto.tv/channels/6541010f770cf1000866be98/colorLogoPNG.png" group-title="Mundo | Canada",MTV Spankin' New CA (1080p)
+https://jmp2.uk/plu-6541010f770cf1000866be98.m3u8
 #EXTINF:-1 tvg-id="NACTV.ca@SD" tvg-logo="https://i.imgur.com/FzM95rH.png" group-title="Mundo | Canada",NACTV
 https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_output_0.m3u8
+#EXTINF:-1 tvg-id="NashBridges.us@SD" tvg-logo="https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png" group-title="Mundo | Canada",Nash Bridges (720p)
+https://jmp2.uk/plu-666021cccb3ea10008406866.m3u8
+#EXTINF:-1 tvg-id="Nashville.us@CA" tvg-logo="https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png" group-title="Mundo | Canada",Nashville CA
+https://jmp2.uk/plu-65cf8d7428730900087c5907.m3u8
+#EXTINF:-1 tvg-id="NCIS.us@CA" tvg-logo="https://images.pluto.tv/channels/63eb9fdda995710008991c54/colorLogoPNG.png" group-title="Mundo | Canada",NCIS (United States) CA
+https://jmp2.uk/plu-62f4f5de1c100100075665ef.m3u8
+#EXTINF:-1 tvg-id="NCISLosAngeles.us@CA" tvg-logo="https://images.pluto.tv/channels/66a106c8a79dea0008aa5ef3/colorLogoPNG.png" group-title="Mundo | Canada",NCIS: Los Angeles (United States)
+https://jmp2.uk/plu-66a106c8a79dea0008aa5ef3.m3u8
+#EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Mundo | Canada",Nick Jr. Pluto TV CA
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@CA" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Mundo | Canada",Nicktoons (United States) CA
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="NTDTVCanada.us@East" tvg-logo="https://i.imgur.com/iyFXcDy.png" group-title="Mundo | Canada",NTD TV Canada
@@ -5293,6 +5467,8 @@ https://live.ntdtv.com/cwlive220/playlist.m3u8
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVPlus.ca@SD" tvg-logo="https://i.imgur.com/YEUhPBv.png" group-title="Mundo | Canada",NTV+
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 tvg-id="OnePiece.us@CA" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Mundo | Canada",One Piece CA
+https://jmp2.uk/plu-62e94ec74823db0007277a8f.m3u8
 #EXTINF:-1 tvg-id="OntarioParliamentaryNetwork.ca@SD" tvg-logo="https://i.imgur.com/xKXs6ER.png" group-title="Mundo | Canada",Ontario Parliamentary Network (720p)
 https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Mundo | Canada",Outdoor Channel (1080p)
@@ -5305,18 +5481,66 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/inde
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="PBSTravel.us@SD" tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="Mundo | Canada",PBS Travel (1080p)
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-id="PerryMason.us@CA" tvg-logo="https://images.pluto.tv/channels/63e20bd160bc8f0008b4c949/colorLogoPNG.png" group-title="Mundo | Canada",Perry Mason CA
+https://jmp2.uk/plu-63e20bd160bc8f0008b4c949.m3u8
+#EXTINF:-1 tvg-id="PlutoClassicMovieWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/66dad50215d2c60008d7afbd/colorLogoPNG.png" group-title="Mundo | Canada",Pluto Classic Movie Westerns
+https://jmp2.uk/plu-66dad50215d2c60008d7afbd.m3u8
+#EXTINF:-1 tvg-id="PlutoTVActionMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea3c2e4823db00072788ed/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Action Movies
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAdventure.us@CA" tvg-logo="https://images.pluto.tv/channels/653bdb0fbdf3cf00089cc395/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Adventure CA
+https://jmp2.uk/plu-653bdb0fbdf3cf00089cc395.m3u8
+#EXTINF:-1 tvg-id="PlutoTVAnime.us@CA" tvg-logo="https://images.pluto.tv/channels/5f12136385bccc00070142ed/colorLogoPNG_1777595293242.png" group-title="Mundo | Canada",Pluto TV Anime CA
+https://jmp2.uk/plu-68d25b620a0f3829b116bb6f.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCars.us@CA" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Mundo | Canada",Pluto TV Cars CA
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
+#EXTINF:-1 tvg-id="PlutoTVClassicTVVariety.us@CA" tvg-logo="https://images.pluto.tv/channels/68d25c623175a2780d051d3a/colorLogoPNG_1758809678864.png" group-title="Mundo | Canada",Pluto TV Classic TV Variety
+https://jmp2.uk/plu-68d25c623175a2780d051d3a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedy.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Comedy CA
+https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Comedy Movies
 https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Crime Drama CA
+https://jmp2.uk/plu-62e92708a7ce600007b2676a.m3u8
+#EXTINF:-1 tvg-id="PlutoTVDramaMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb0bcd707b9000739d2e5/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Drama Movies
+https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5.m3u8
+#EXTINF:-1 tvg-id="PlutoTVFBI.us@CA" tvg-logo="https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png" group-title="Mundo | Canada",Pluto TV FBI
+https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@CA" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Horror (United States) CA
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
+#EXTINF:-1 tvg-id="PlutoTVParanormal.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92a58f3e4290007290c96/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Paranormal (United States) CA
+https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
+#EXTINF:-1 tvg-id="PlutoTVReality.us@CA" tvg-logo="https://images.pluto.tv/channels/67922858b83355184c699699/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Reality (United States) CA
+https://jmp2.uk/plu-67922858b83355184c699699.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us@CA" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png" group-title="Mundo | Canada",Pluto TV Retro Action Movies
+https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeAction.us@CA" tvg-logo="https://images.pluto.tv/channels/69aee8a1acb7eb0bb68df641/colorLogoPNG_1774899454178.png" group-title="Mundo | Canada",Pluto TV Retro Crime Action
+https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/630f1e6073bd1800082107f0/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Retro Crime Drama
+https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRetroKid.us@CA" tvg-logo="https://images.pluto.tv/channels/6408b41b83f58900081d91ad/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Retro Kid
+https://jmp2.uk/plu-6408b41b83f58900081d91ad.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSciFi.us@CA" tvg-logo="https://images.pluto.tv/channels/66166cb1307fa30008f275e7/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Sci-Fi (United States) CA
+https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSnooker900.us@CA" tvg-logo="https://images.pluto.tv/channels/639b4f75d3d35c0007d37b30/colorLogoPNG_1759333260607.png" group-title="Mundo | Canada",Pluto TV Snooker 900 (United States)
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrime.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9289f8d467f0007fbc701/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV True Crime (United States) CA
+https://jmp2.uk/plu-62e9289f8d467f0007fbc701.m3u8
+#EXTINF:-1 tvg-id="PlutoTVWesterns.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdacc96a3751000811842d/colorLogoPNG.png" group-title="Mundo | Canada",Pluto TV Westerns (United States) CA
+https://jmp2.uk/plu-62bdacc96a3751000811842d.m3u8
 #EXTINF:-1 tvg-id="PrimeAsiaTV.ca@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" group-title="Mundo | Canada",Prime Asia TV (1080p)
 http://primeasia.selfip.net/Samsung/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/PTC_Punjabi.png" group-title="Mundo | Canada",PTC Punjabi Canada (1080p)
 https://stream.ottlive.co.in/ptccanada/index.m3u8
+#EXTINF:-1 tvg-id="PutoTVClassicTVCrimeDrama.us@CA" tvg-logo="https://images.pluto.tv/channels/696e61287d2afdec4ff2cb75/colorLogoPNG_1768842232781.png" group-title="Mundo | Canada",Puto TV Classic TV Crime Drama
+https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://i.imgur.com/IRyFTWq.png" group-title="Mundo | Canada",Qello Concerts by Stingray (1080p)
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="QuoVadisTV.ca@SD" tvg-logo="https://i.imgur.com/pEqDDHl.png" group-title="Mundo | Canada",Quo Vadis TV (720p)
 https://tgn.bozztv.com/qvtv/qvtv-web/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTeleEvangileSansLimite.ca@SD" tvg-logo="https://i.imgur.com/CL32kFA.png" group-title="Mundo | Canada",Radio Tele Evangile Sans Limite
 https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 tvg-id="Rawhide.us@CA" tvg-logo="https://images.pluto.tv/channels/65660223635c3c00086c2578/colorLogoPNG.png" group-title="Mundo | Canada",Rawhide (United States) CA
+https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@US" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Mundo | Canada",Red Bull TV US (1080p)
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="SardariTV.ca@SD" group-title="Mundo | Canada",Sardari TV (1080p) [Not 24/7]
@@ -5327,6 +5551,22 @@ https://hls.savoir.media/live/stream.m3u8
 https://cdn12.henico.net:8443/live/ssct/index.m3u8
 #EXTINF:-1 tvg-id="SooriyanTV.ca@SD" tvg-logo="https://i.ibb.co/LSyydKj/Sooriyan-TV-Tamil.jpg" group-title="Mundo | Canada",Sooriyan TV (1080p)
 https://live20.bozztv.com/giatv/giatv-Infinittyott/Infinittyott/playlist.m3u8
+#EXTINF:-1 tvg-id="SouthPark.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" group-title="Mundo | Canada",South Park (United States)
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+#EXTINF:-1 tvg-id="SouthParkEnFrancais.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb919d36cbd0007e6ab8a/colorLogoPNG.png" group-title="Mundo | Canada",South Park En Francais
+https://jmp2.uk/plu-62bdb919d36cbd0007e6ab8a.m3u8
+#EXTINF:-1 tvg-id="SouthParkCartmanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" group-title="Mundo | Canada",South Park: Cartman Collection (United States)
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+#EXTINF:-1 tvg-id="SouthParkKennyCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="Mundo | Canada",South Park: Kenny Collection (United States)
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+#EXTINF:-1 tvg-id="SouthParkKyleCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" group-title="Mundo | Canada",South Park: Kyle Collection (United States)
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+#EXTINF:-1 tvg-id="SouthParkStanCollection.us@CA" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" group-title="Mundo | Canada",South Park: Stan Collection (United States)
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+#EXTINF:-1 tvg-id="SouthParkWelcometoCanada.us@CA" tvg-logo="https://images.pluto.tv/channels/663115d923e24f000843b49c/colorLogoPNG.png" group-title="Mundo | Canada",South Park: Welcome to Canada!
+https://jmp2.uk/plu-663115d923e24f000843b49c.m3u8
+#EXTINF:-1 tvg-id="SpongeBobSquarePants.us@CA" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="Mundo | Canada",SpongeBob SquarePants (720p)
+https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 tvg-id="StingrayCityscapes.ca@HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZlXPCl4ze9lr2DnadYazKxuyyEEWmgO1O1Q&s" group-title="Mundo | Canada",Stingray Cityscapes (1080p)
 https://aka-live1050.delivery.roku.com/7572d640-7373-4137-8b14-a3afff395349/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca@SD" tvg-logo="https://i.imgur.com/FBgu8yB.png" group-title="Mundo | Canada",Stingray Classic Rock (1080p)
@@ -5387,18 +5627,36 @@ https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/play
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Mundo | Canada",TamilVision-TV (1080p)
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
+#EXTINF:-1 tvg-id="TheAndyGriffithShow.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9145ec07f2a00070e68dc/colorLogoPNG.png" group-title="Mundo | Canada",The Andy Griffith Show CA
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 tvg-id="TheBeverlyHillbillies.us@CA" tvg-logo="https://images.pluto.tv/channels/6565fefdc917a50008485cc6/colorLogoPNG.png" group-title="Mundo | Canada",The Beverly Hillbillies
+https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+#EXTINF:-1 tvg-id="TheChallenge.us@CA" tvg-logo="https://images.pluto.tv/channels/64f8a22a3efb510008245df0/colorLogoPNG.png" group-title="Mundo | Canada",The Challenge CA
+https://jmp2.uk/plu-64f8a22a3efb510008245df0.m3u8
+#EXTINF:-1 tvg-id="TheConners.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png" group-title="Mundo | Canada",The Conners
+https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
 #EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD" tvg-logo="https://i.imgur.com/xwntWOP.png" group-title="Mundo | Canada",The Cowboy Channel Canada (1080p)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Mundo | Canada",The Graham Norton Show (1080p)
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheJudgeJudyChannel.us@CA" tvg-logo="https://images.pluto.tv/channels/62e92e536f28870007fa9b3a/colorLogoPNG.png" group-title="Mundo | Canada",The Judge Judy Channel CA
 https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
+#EXTINF:-1 tvg-id="TheNewDetectives.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdabbc5611f2000761ca30/colorLogoPNG.png" group-title="Mundo | Canada",The New Detectives (United States) CA
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1 tvg-id="ThePriceIsRight.us@CA" tvg-logo="https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/colorLogoPNG.png" group-title="Mundo | Canada",The Price Is Right CA (720p)
 https://jmp2.uk/plu-64c2214c2a7f2200089a0c4b.m3u8
+#EXTINF:-1 tvg-id="TheWeatherNetwork.ca@SD" tvg-logo="https://i.imgur.com/V6ZUwUY.png" group-title="Mundo | Canada",The Weather Network (720p)
+https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
+#EXTINF:-1 tvg-id="ThreesCompany.us@CA" tvg-logo="https://images.pluto.tv/channels/64ca723a2bc49300081a8966/colorLogoPNG.png" group-title="Mundo | Canada",Three's Company CA (720p)
+https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
 #EXTINF:-1 tvg-id="Toronto360TV.ca@SD" tvg-logo="https://i.imgur.com/YJYdHKO.png" group-title="Mundo | Canada",Toronto 360 TV (720p) [Not 24/7]
 http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TortuesNinjaTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62e9566e27ce19000732ec85/colorLogoPNG.png" group-title="Mundo | Canada",Tortues Ninja TV (United States) (720p)
+https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
 #EXTINF:-1 tvg-id="TotalCrime.ca@CA" tvg-logo="https://images.pluto.tv/channels/62e93b8eb8e02600071f8b1d/colorLogoPNG_1731000193486.png" group-title="Mundo | Canada",Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1 tvg-id="TotallyTurtles.us@CA" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" group-title="Mundo | Canada",Totally Turtles (United States) CA (720p)
+https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1 tvg-id="TSC.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TSC_logo.svg/960px-TSC_logo.svg.png" group-title="Mundo | Canada",TSC (720p)
 https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
 #EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Mundo | Canada",TSN The Ocho (1080p)
@@ -5421,6 +5679,8 @@ https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-logo="https://i.imgur.com/bwmIEgG.png" group-title="Mundo | Canada",XITE Siempre Latino (1080p)
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="YoMTV.us@CA" tvg-logo="https://images.pluto.tv/channels/654102ed770cf1000866c307/colorLogoPNG.png" group-title="Mundo | Canada",Yo! MTV CA (1080p)
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
 #EXTINF:-1 tvg-id="ZenLIFEbyStingray.ca@HD" tvg-logo="https://www.stingray.com/wp-content/uploads/2023/12/stingray_zenlifebystingray_white.svg" group-title="Mundo | Canada",ZenLIFE by Stingray (1080p)
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="TVCidade.cv@SD" tvg-logo="https://i.imgur.com/gmSu21X.jpg" group-title="Mundo | Cape Verde",TV Cidade
@@ -5647,8 +5907,6 @@ https://vmix.dyndns.biz/Edelweiss/index.m3u8
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFantasiaTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="Mundo | Chile",Radio Fantasia TV (720p)
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 tvg-id="RadioFrecuenciaUno.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png" group-title="Mundo | Chile",Radio Frecuencia Uno (720p)
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
 #EXTINF:-1 tvg-id="RadioLaSerenaTV.cl@SD" tvg-logo="https://i.imgur.com/65ftM3v.png" group-title="Mundo | Chile",Radio La Serena TV (720p)
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioNuble.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png" group-title="Mundo | Chile",Radio Nuble (720p)
@@ -5663,8 +5921,6 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRitmoFM.cl@SD" tvg-logo="https://i.imgur.com/qU3E0kX.png" group-title="Mundo | Chile",Radio Ritmo FM (1080p) [Not 24/7]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioUC.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1467_Radio_UC.png" group-title="Mundo | Chile",Radio UC (720p)
-https://oracle.streaminghd.cl/radiouc/radiouc/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUNIACC.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1744_Radio_UNIACC.png" group-title="Mundo | Chile",Radio UNIACC (720p)
 https://scl.edge.grupoz.cl/uniaccastream/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUniversal.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png" group-title="Mundo | Chile",Radio Universal (720p)
@@ -5915,8 +6171,6 @@ http://110.153.180.106:55555/out_2/index.m3u8
 http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1
 #EXTINF:-1 tvg-id="XizangTVChinese.cn@SD" tvg-logo="https://i.imgur.com/V0v3ST5.png" group-title="Mundo | China",Xizang TV Chinese
 https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8
-#EXTINF:-1 tvg-id="XizangTVTibetan.cn@SD" tvg-logo="https://i.imgur.com/NtvfnVV.png" group-title="Mundo | China",Xizang TV Tibetan (720p) [Not 24/7]
-http://php.jdshipin.com:8880/xztv.php?id=zy
 #EXTINF:-1 tvg-id="ZhejiangInternationalChannel.cn@SD" tvg-logo="https://i.imgur.com/XOL1Hph.png" group-title="Mundo | China",Zhejiang International Channel
 https://ali-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
 #EXTINF:-1 tvg-id="AmagaTelevision.co@SD" tvg-logo="https://i.imgur.com/hvpbfzG.png" group-title="Mundo | Colombia",Amaga Television (720p)
@@ -6041,8 +6295,6 @@ https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3
 https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/21.m3u8
 #EXTINF:-1 tvg-id="OasisTV.co@SD" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Mundo | Colombia",Oasis TV (Colombia) (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="PancheTelevision.co@SD" tvg-logo="https://i.imgur.com/BJVlOVA.jpeg" group-title="Mundo | Colombia",Panche Television
-https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:-1 tvg-id="ParrandaVallenata.co@SD" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg" group-title="Mundo | Colombia",Parranda Vallenata (720p)
 https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
 #EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/3AXjotA.jpg" group-title="Mundo | Colombia",Radiola TV (1080p)
@@ -6325,8 +6577,12 @@ https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 #EXTINF:-1 tvg-id="YachtingTV.cz@SD" tvg-logo="https://i.imgur.com/YxO60B1.png" group-title="Mundo | Czech Republic",Yachting TV (1080p)
 https://streams2.sofast.tv/vglive-sk-461164/index.m3u8
+#EXTINF:-1 tvg-id="BarakaTelevision.cd@SD" tvg-logo="https://i.imgur.com/IKXddHN.png" group-title="Mundo | Democratic Republic of the Congo",Baraka Television (720p) [Not 24/7]
+https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 #EXTINF:-1 tvg-id="EVITV.cd@SD" tvg-logo="https://i.imgur.com/fBc9JSM.png" group-title="Mundo | Democratic Republic of the Congo",EVI TV (720p)
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
+#EXTINF:-1 tvg-id="LeMondeen24h.cd@SD" tvg-logo="https://i.imgur.com/2igwi7g.png" group-title="Mundo | Democratic Republic of the Congo",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="2900Happiness.se@DK" tvg-logo="https://images.pluto.tv/channels/6720bc6cdaad7f000872a6e2/colorLogoPNG.png" group-title="Mundo | Denmark",2900 Happiness
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 tvg-id="7thHeaven.se@DK" tvg-logo="https://images.pluto.tv/channels/6728c9c85534bb0008b320a4/colorLogoPNG.png" group-title="Mundo | Denmark",7th Heaven DK
@@ -6529,6 +6785,8 @@ https://jmp2.uk/plu-61f9598588f86000078ee7d6.m3u8
 https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSpace.se@DK" tvg-logo="https://images.pluto.tv/channels/61b86c6ef30f5d0007e4c6d1/colorLogoPNG.png" group-title="Mundo | Denmark",Pluto TV Space (Sweden)
 https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.se@DK" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="Mundo | Denmark",Pluto TV Sport (Sweden) DK
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
 #EXTINF:-1 tvg-id="PlutoTVStarTrek.se@DK" tvg-logo="https://images.pluto.tv/channels/61c1979dfa307000070bbe4d/colorLogoPNG.png" group-title="Mundo | Denmark",Pluto TV Star Trek (Sweden)
 https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@DK" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="Mundo | Denmark",Pluto TV Tegnefilm (720p)
@@ -6821,8 +7079,6 @@ https://rd.tvabierta.net/live/misioneltv.m3u8
 https://soportedvb.click:3400/live/montecristitvlive.m3u8
 #EXTINF:-1 tvg-id="MontonesTV.do@HD" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="Mundo | Dominican Republic",Montones TV (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
-#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="Mundo | Dominican Republic",MorroTV (720p) [Not 24/7]
-https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="Mundo | Dominican Republic",Musavision (1080p)
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="Mundo | Dominican Republic",Naranja TV (720p)
@@ -7171,6 +7427,8 @@ https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-id="JFVTV.sv@SD" tvg-logo="https://i.imgur.com/SrmI6nU.jpeg" group-title="Mundo | El Salvador",JFV TV (720p)
 https://2nbyj587d53k-hls-live.5centscdn.com/09/25b94ec89b2aa708c3c4ad0014b09845.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="JosueTV.sv@SD" tvg-logo="https://i.imgur.com/LNWGe1D.jpg" group-title="Mundo | El Salvador",Josue TV (1080p)
+https://videoserver.tmcreativos.com:19360/abbftuhxxs/abbftuhxxs.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Canal_19%27s_logo_%28Second_Era%29_in_2002.png" group-title="Mundo | El Salvador",Megavision Canal 19 (720p)
 https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="Mundo | El Salvador",Megavision Canal 21 (720p)
@@ -7189,6 +7447,8 @@ https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="Mundo | El Salvador",TVO Canal 23 (720p)
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.gq@SD" tvg-logo="https://i.imgur.com/TJHk6Va.png" group-title="Mundo | Equatorial Guinea",SolTV (Equatorial Guinea) (720p)
+https://stream.solmediaeg.com/soltv/soltv.m3u8
 #EXTINF:-1 tvg-id="ERiTV1.er@SD" tvg-logo="https://i.imgur.com/bTR0Huw.png" group-title="Mundo | Eritrea",ERi-TV 1 (576p)
 https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
 #EXTINF:-1 tvg-id="BestofDanceTV.ee@SD" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" group-title="Mundo | Estonia",Best of Dance TV (1080p)
@@ -7217,8 +7477,6 @@ http://stream.mcquack.net/461/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
 #EXTINF:-1 tvg-id="ViasatKinoWorld.ua@SD" tvg-logo="https://i.imgur.com/GPiE2Rb.png" group-title="Mundo | Estonia",like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Estonia",Viasat Kino World
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
-#EXTINF:-1 tvg-id="Riigikogu.ee@SD" tvg-logo="https://i.imgur.com/dJRGDt2.png" group-title="Mundo | Estonia",Riigikogu (720p)
-https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005
 #EXTINF:-1 tvg-id="TaevasTV7.fi@SD" tvg-logo="https://i.imgur.com/usXedIj.png" group-title="Mundo | Estonia",Taevas TV7 (720p)
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TBNBaltia.ee@SD" tvg-logo="https://i.imgur.com/rKBaK56.png" group-title="Mundo | Estonia",TBN Baltia (1080p)
@@ -7389,6 +7647,8 @@ https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
 #EXTINF:-1 tvg-id="PlutoTVBrigadeCriminelle.de@FR" tvg-logo="https://images.pluto.tv/channels/684bf01df7d8b74b625b7dd1/colorLogoPNG_1753890939606.png" group-title="Mundo | France",Pluto TV Brigade Criminelle
 https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedie.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" group-title="Mundo | France",Pluto TV Comedie
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComediesCultes.de@FR" tvg-logo="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/colorLogoPNG.png" group-title="Mundo | France",Pluto TV Comedies Cultes
 https://jmp2.uk/plu-67b4b2d976a934282e92d71c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCuisine.de@FR" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG_1733440509319.png" group-title="Mundo | France",Pluto TV Cuisine
@@ -7513,6 +7773,8 @@ https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8
 #EXTINF:-1 tvg-id="W9.fr@SD" tvg-logo="https://i.imgur.com/reYeMuE.png" group-title="Mundo | France",W9 (1086p)
 http://5.180.164.197:8080/W9/index.m3u8
+#EXTINF:-1 tvg-id="WalkerTexasRanger.us@France" tvg-logo="https://i.imgur.com/0N7EhuD.png" group-title="Mundo | France",Walker Texas Ranger
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1 tvg-id="Yaquelaveritequicompte.us@France" tvg-logo="https://i.imgur.com/MDHN2Vc.png" group-title="Mundo | France",Y'a que la verite qui compte
 https://jmp2.uk/plu-612e044c970e6f00083bcf3b.m3u8
 #EXTINF:-1 tvg-id="zenith.fr@HD" tvg-logo="https://znth.tv/images/logo.png" group-title="Mundo | France",zenith (1080p)
@@ -7633,6 +7895,8 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
 https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="LightChannel.de@SD" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="Mundo | Germany",Light Channel (Germany) (576p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRUS.de@SD" tvg-logo="https://i.imgur.com/2mJKi7g.png" group-title="Mundo | Germany",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Germany",TVRUS
+http://213.91.179.28:8000/play/a082
 #EXTINF:-1 tvg-id="OstWest24.de@SD" tvg-logo="https://i.imgur.com/voeQ6x1.png" group-title="Mundo | Germany",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Germany",Ost West 24 (1080p)
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1 tvg-id="MCTV.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/ca/MC_TV_logosu.png" group-title="Mundo | Germany",MC TV (720p)
@@ -7779,6 +8043,8 @@ https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
 https://dash4.antik.sk/live/test_swr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="Mundo | Germany",tagesschau24 (720p)
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="teltOwkanal.de@SD" tvg-logo="https://i.imgur.com/G0cImlU.png" group-title="Mundo | Germany",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
 #EXTINF:-1 tvg-id="TVIngolstadt.de@SD" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="Mundo | Germany",TV Ingolstadt (1080p)
 https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMainfranken.de@SD" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="Mundo | Germany",TV Mainfranken (1080p) [Not 24/7]
@@ -8141,8 +8407,6 @@ https://s.emisoras.tv:8081/telemas/index.m3u8
 https://s.emisoras.tv:8081/telerayo/index.m3u8
 #EXTINF:-1 tvg-id="TelevisionMetropolis191.hn@SD" tvg-logo="https://i.imgur.com/X5C1GzB.png" group-title="Mundo | Honduras",Television Metropolis 19.1 (1080p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6028/6028/playlist.m3u8
-#EXTINF:-1 tvg-id="TelevisionMetropolis192.hn@SD" tvg-logo="https://i.imgur.com/QaocW5x.png" group-title="Mundo | Honduras",Television Metropolis 19.2 (1080p) [Not 24/7]
-https://5e85d90130e77.streamlock.net/6014/6014/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisionOlanchana.hn@SD" tvg-logo="https://i.imgur.com/8LnLEQz.png" group-title="Mundo | Honduras",Television Olanchana (1080p)
 https://viewhn.com/canal30/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Mundo | Honduras",Tigo Sports (Honduras) (1080p)
@@ -8167,8 +8431,6 @@ http://103.172.187.30:12000/stream/mytv/null-1/master.m3u8
 http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
 #EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="Mundo | Hong Kong",Pet Club TV (1080p)
 https://petclub-samsungaus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RTHKTV31.hk@SD" tvg-logo="https://i.imgur.com/kf818kM.png" group-title="Mundo | Hong Kong",RTHK TV 31 (1080p) [Geo-blocked]
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="16tvBudapest.hu@SD" tvg-logo="https://i.imgur.com/04fCzHl.png" group-title="Mundo | Hungary",16tv Budapest (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="7TV.hu@SD" tvg-logo="https://i.imgur.com/CnUhAlK.png" group-title="Mundo | Hungary",7.TV (360p)
@@ -8273,6 +8535,8 @@ https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
 https://stream.ottlive.co.in/aajkikhabar/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AAJ_TAK/images/LOGO_HD/image.png" group-title="Mundo | India",Aaj Tak HD (1080p)
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540" group-title="Mundo | India",Aakaash Aath (576p)
+http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
 #EXTINF:-1 tvg-id="AaryaaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/aryatvtamil.png" group-title="Mundo | India",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Mundo | India",Aaseervatham TV (576p)
@@ -8331,6 +8595,8 @@ https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/p
 https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="AnjanTV.in@SD" tvg-logo="https://i.imgur.com/sh0yFSf.png" group-title="Mundo | India",Anjan TV (720p)
 https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="APN.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/APN.png" group-title="Mundo | India",APN (576p)
+https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
 #EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="Mundo | India",Apna Punjab TV (720p)
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png" group-title="Mundo | India",Argus News (576p)
@@ -8345,6 +8611,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" group-title="Mundo | India",Asianet Suvarna News (1080p) [Not 24/7]
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" group-title="Mundo | India",Assam Talks (576p)
+http://tvsen7.aynascope.net/AssamTalks/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="Mundo | India",Awaaz India TV (720p) [Not 24/7]
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 #EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="Mundo | India",Awakening TV (576p)
@@ -8393,6 +8661,8 @@ https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8
 https://feeds.intoday.in/bttv/itgd.m3u8
 #EXTINF:-1 tvg-id="BVG.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BVG.png" group-title="Mundo | India",BVG (576p)
 https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
+#EXTINF:-1 tvg-id="CCV.in@SD" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="Mundo | India",CCV (480p)
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143010_ld_h15_aa.png?lock=720x540" group-title="Mundo | India",Channel Divya (1080p)
 https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
 #EXTINF:-1 tvg-id="ChannelWIN.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CHANNEL_WIN/images/LOGO_HD/image.png" group-title="Mundo | India",Channel WIN (720p)
@@ -8615,6 +8885,8 @@ https://guaranteenews.in:8443/live/gnews/index.m3u8
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
 #EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="Mundo | India",Gyandarshan (720p)
 https://cdn.pishow.tv/ott/live/14/master.m3u8
+#EXTINF:-1 tvg-id="Gyandarshan.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GYANDARSHAN/images/LOGO_HD/image.png" group-title="Mundo | India",Gyandarshan HD (576p)
+https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
 #EXTINF:-1 tvg-id="HarvestTVKeralam.in@SD" tvg-logo="https://i.imgur.com/1DyPuIt.png" group-title="Mundo | India",Harvest TV Keralam (720p)
 https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="HarvestUSA.in@SD" group-title="Mundo | India",Harvest USA (576p)
@@ -9135,6 +9407,8 @@ https://ktismaservers.in:3902/live/salvationtvlive.m3u8
 https://mumt05.tangotv.in/87NeALx2VERTENTSAMACHARPLUS/index.m3u8
 #EXTINF:-1 tvg-id="SamayKolkata.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Samay_Kolkata.png" group-title="Mundo | India",Samay Kolkata (1080p)
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1 tvg-id="SanaPlus.in@SD" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="Mundo | India",Sana Plus (1080p)
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-logo="https://i.imgur.com/CR7DGBv.png" group-title="Mundo | India",Sana TV (1080p)
 https://vglivessai.akamaized.net/us/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b6d9e864-ec16-410a-804d-ccf8f720bfaa/index.m3u8
 #EXTINF:-1 tvg-id="SandeshNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143755_ld_h15_aa.png?lock=720x540" group-title="Mundo | India",Sandesh News (576p)
@@ -9333,6 +9607,8 @@ https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
 #EXTINF:-1 tvg-id="VasanthTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144068_ld_h15_aa.png?lock=720x540" group-title="Mundo | India",Vasanth TV (576p)
 https://mumt04.tangotv.in/m18aqlK4VASANTHTV/index.m3u8
+#EXTINF:-1 tvg-id="VCV.in@SD" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="Mundo | India",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 #EXTINF:-1 tvg-id="Vedic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540" group-title="Mundo | India",Vedic (576p)
 https://mumt05.tangotv.in/87NeALx2VEDIC/index.m3u8
 #EXTINF:-1 tvg-id="VelichamTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Logo_of_Velicham_TV.png" group-title="Mundo | India",Velicham TV (576p)
@@ -9413,6 +9689,8 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="ZeeTeluguNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023178R.png?lock=720x540" group-title="Mundo | India",Zee Telugu News (720p)
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
+#EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Mundo | India",Zee TV HD (720p) [Geo-blocked]
+http://41.205.93.154/ZEE-TV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="Mundo | India",Zee Uttar Pradesh/Uttarakhand (720p)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zillarbarta.png" group-title="Mundo | India",ZillarBarta News
@@ -9425,6 +9703,8 @@ https://ranacable.duckdns.org/ZodiakTv/index.m3u8
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-id="AhsanTV.id@SD" tvg-logo="https://i.imgur.com/dZdUbYd.png" group-title="Mundo | Indonesia",Ahsan TV
 https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="AKTV.id@SD" tvg-logo="https://i.imgur.com/DUY5WXf.png" group-title="Mundo | Indonesia",AKTV (1080p) [Not 24/7]
+https://akativi.siar.us/live/akativi.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Mundo | Indonesia",Al Wafa Tarim (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlBahjahTV.id@SD" tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="Mundo | Indonesia",Al-Bahjah TV (1080p)
@@ -9523,6 +9803,8 @@ https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Mundo | Indonesia",Puja TV Aceh (1080p) [Not 24/7]
 https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" group-title="Mundo | Indonesia",Radar Lampung TV (480p)
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Mundo | Indonesia",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="Mundo | Indonesia",RCTV (Indonesia) (720p) [Not 24/7]
@@ -9653,8 +9935,6 @@ https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="Mundo | International",ABC News Live (720p)
 https://jmp2.uk/plu-6508be683a0d700008c534e4.m3u8
-#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" group-title="Mundo | International",AbejalesTV (720p)
-https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AcapulcoShore.us@LatAm" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG_1756972226445.png" group-title="Mundo | International",Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
 #EXTINF:-1 tvg-id="AfricanewsEnglish.fr@SD" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="Mundo | International",Africanews English (720p)
@@ -10241,6 +10521,8 @@ https://mumbai-edge.smartplaytv.in/TRTWorld/index.m3u8
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBRICSAfrica.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg" group-title="Mundo | International",TV BRICS Africa (1080p)
 https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TV1000RussianKinoGlobal.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png/1280px-TV1000_%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D0%B8%D0%BD%D0%BE_2014.png" group-title="Mundo | International",TV1000 Russian Kino Global
+http://213.91.179.28:8000/play/a0bx
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Mundo | International",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="Mundo | International",TV5MONDE Chefs (1080p)
@@ -10639,6 +10921,8 @@ https://jmp2.uk/plu-6304f8d5ffb61000071ab478.m3u8
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
 #EXTINF:-1 tvg-id="JudgeJudy.de@GB" tvg-logo="https://images.pluto.tv/channels/622f498d119b4c000719c0b7/colorLogoPNG.png" group-title="Mundo | Ireland",Judge Judy (Germany)
 https://jmp2.uk/plu-622f498d119b4c000719c0b7.m3u8
+#EXTINF:-1 tvg-id="SetantaSports2Eurasia.ie@SD" tvg-logo="https://i.imgur.com/ouHunnK.png" group-title="Mundo | Ireland",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ireland",Setanta Sports 2 Eurasia (1080p)
+http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1 tvg-id="MoreTVCrime.de@GB" tvg-logo="https://images.pluto.tv/channels/639b558c73423d00071ce624/colorLogoPNG.png" group-title="Mundo | Ireland",More TV Crime
 https://jmp2.uk/plu-639b558c73423d00071ce624.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAlienInvasion.de@GB" tvg-logo="https://images.pluto.tv/channels/6462190b7cb4b1000862dd60/colorLogoPNG.png" group-title="Mundo | Ireland",Pluto TV Alien Invasion (Germany)
@@ -10739,8 +11023,6 @@ https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-id="Kan11.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" group-title="Mundo | Israel",Kan 11 (1080p)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="KanEducational.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/960px-KanHinuchit.svg.png" group-title="Mundo | Israel",Kan Educational (720p)
-http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1 tvg-id="GoodLife.il@SD" tvg-logo="https://cdn.epg.one/img2/2686.png" group-title="Mundo | Israel",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Israel",Good Life (576p)
 http://stream.mcquack.net/47/index.m3u8
 #EXTINF:-1 tvg-id="Channel13.il@SD" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="Mundo | Israel",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Israel",Channel 13 (Israel) (1080p)
@@ -10949,12 +11231,6 @@ https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ParolediVita.it@SD" tvg-logo="https://i.imgur.com/vkFlXbR.png" group-title="Mundo | Italy",Parole di Vita (1080p)
 https://stream.paroledivita.org/paroledivita.m3u8
-#EXTINF:-1 tvg-id="PeerTVAltoAdige.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png" group-title="Mundo | Italy",Peer TV Alto Adige (1280p)
-https://iptv.peer.biz/live/peertv-it.m3u8
-#EXTINF:-1 tvg-id="PeerTVSouthTyrol.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-south-tyrol.png" group-title="Mundo | Italy",Peer TV South Tyrol (1280p)
-https://iptv.peer.biz/live/peertv-en.m3u8
-#EXTINF:-1 tvg-id="PeerTVSudtirol.it@SD" tvg-logo="https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png" group-title="Mundo | Italy",Peer TV Sudtirol (1080p)
-https://iptv.peer.biz/live/peertv.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAlbertoSordi.de@IT" tvg-logo="https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png" group-title="Mundo | Italy",Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 #EXTINF:-1 tvg-id="PlutoTVChristmastuttolanno.de@IT" tvg-logo="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png" group-title="Mundo | Italy",Pluto TV Christmas tutto l'anno
@@ -11311,6 +11587,8 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 http://stream.mcquack.net/389/index.m3u8
 #EXTINF:-1 tvg-id="Qazaqstan.kz@SD" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="Mundo | Kazakhstan",Qazaqstan (576p)
 https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
+#EXTINF:-1 tvg-id="Qazaqstan.kz@HD" tvg-logo="https://i.imgur.com/oI8g396.png" group-title="Mundo | Kazakhstan",Qazaqstan HD (1080p)
+http://stream.mcquack.net/71/index.m3u8
 #EXTINF:-1 tvg-id="QazaqstanInternational.kz@SD" tvg-logo="https://cdn.qazaqstan.tv/qazaqstan.png?w=420&h=196&format=png&resize=aspectfill&g=centeralt=" group-title="Mundo | Kazakhstan",Qazaqstan International
 https://stream8.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RikaTV.kz@SD" tvg-logo="https://i.imgur.com/KJHWZ3B.png" group-title="Mundo | Kazakhstan",Rika TV (480p)
@@ -11369,8 +11647,6 @@ https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
 https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="KTVSport.kw@SD" tvg-logo="https://i.imgur.com/R1hGX1d.png" group-title="Mundo | Kuwait",KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="KTVSportPlus.kw@SD" tvg-logo="https://i.imgur.com/l4oX0gf.png" group-title="Mundo | Kuwait",KTV Sport Plus (1080p)
-https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV1KG.kg@SD" tvg-logo="https://i.imgur.com/Mti9t9C.png" group-title="Mundo | Kyrgyzstan",TV1.KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BrianTV.la@SD" tvg-logo="https://i.imgur.com/zG1WNgU.jpg" group-title="Mundo | Laos",Brian TV (720p) [Not 24/7]
@@ -11411,8 +11687,6 @@ https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
 http://185.105.4.151:8080/_defapp_/ittihad/index.m3u8
 #EXTINF:-1 tvg-id="AlJadeed.lb@SD" tvg-logo="https://i.imgur.com/CfxR8o3.png" group-title="Mundo | Lebanon",Al Jadeed (1080p)
 http://185.9.2.18/chid_391/mono.m3u8
-#EXTINF:-1 tvg-id="AlMayadeenTV.lb@SD" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="Mundo | Lebanon",Al Mayadeen TV (576p)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Mundo | Lebanon",Al-Iman TV (Lebanon) (240p) [Not 24/7]
 https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb@SD" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Mundo | Lebanon",Al-Manar (576p) [Not 24/7]
@@ -11457,6 +11731,8 @@ https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="TahaTV.lb@SD" tvg-logo="https://i.imgur.com/hdsrxvX.png" group-title="Mundo | Lebanon",Taha TV (576p)
 https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="Mundo | Lebanon",Voice of Lebanon (1080p)
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly@SD" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="Mundo | Libya",Al Masar TV (576p)
 https://starmenajo.com/hls/almasar/index.m3u8
 #EXTINF:-1 tvg-id="LibyaAlWataniya.ly@SD" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="Mundo | Libya",Libya Al Wataniya (360p)
@@ -11477,6 +11753,8 @@ http://stream.mcquack.net/35/index.m3u8
 http://stream.mcquack.net/30/index.m3u8
 #EXTINF:-1 tvg-id="LRTTV.lt@SD" tvg-logo="https://i.imgur.com/FL2ZuGC.png" group-title="Mundo | Lithuania",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lithuania",LRT TV (1080p)
 http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 tvg-id="TV3.lt@SD" tvg-logo="https://i.imgur.com/7nipq0y.png" group-title="Mundo | Lithuania",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Lithuania",TV3 (Lithuania) (1080p)
+http://stream.mcquack.net/29/index.m3u8
 #EXTINF:-1 tvg-id="LRTKlasika.lt@SD" tvg-logo="https://i.imgur.com/Fa8Vhu0.png" group-title="Mundo | Lithuania",LRT Klasika (1080p)
 https://stream-live.lrt.lt/klasika/master.m3u8
 #EXTINF:-1 tvg-id="LRTLituanica.lt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/LRT_Lituanica_Logo_2022.svg/960px-LRT_Lituanica_Logo_2022.svg.png" group-title="Mundo | Lithuania",LRT Lituanica (1080p) [Geo-blocked]
@@ -11599,6 +11877,8 @@ http://158.172.217.18:8000/play/a00d/index.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="CreaLaTV.mx@SD" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="Mundo | Mexico",CreaLaTV (1080p)
 https://stream.crealatv.com/live.m3u8
+#EXTINF:-1 tvg-id="DespiertaTV.mx@SD" tvg-logo="https://i.imgur.com/hywjKNo.jpg" group-title="Mundo | Mexico",Despierta TV (1080p) [Not 24/7]
+https://video2.lhdserver.es/despiertatv/live.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Mundo | Mexico",Disney Channel Latin America Mexico (720p)
 http://45.166.93.156:9999/play/a0f3/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@North" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Mundo | Mexico",Disney Channel Latin America North (576p)
@@ -11895,6 +12175,8 @@ https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="KempenTV.nl@SD" tvg-logo="https://i.imgur.com/ZiPL9ar.png" group-title="Mundo | Netherlands",KempenTV (480p)
 http://ms7.mx-cd.net/tv/Omroep_de_Kempen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="L1TV.nl@SD" tvg-logo="https://i.imgur.com/SDD5KS5.png" group-title="Mundo | Netherlands",L1 TV (720p) [Not 24/7]
+https://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 #EXTINF:-1 tvg-id="LangstraatTV.nl@SD" tvg-logo="https://i.imgur.com/xchUfks.png" group-title="Mundo | Netherlands",Langstraat TV (720p)
 https://d1qpgfi3ivud4k.cloudfront.net/nlpo/clr-nlpo/langstraat/index.m3u8
 #EXTINF:-1 tvg-id="LansingerlandTV.nl@SD" tvg-logo="https://i.imgur.com/1r7IZ7Q.png" group-title="Mundo | Netherlands",Lansingerland TV (720p)
@@ -12177,8 +12459,6 @@ https://stream-hls.castr-cdn.com/6a05a899db0ebd344a759542/live_9655bc604f8211f19
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SalvationTV.ng@SD" tvg-logo="https://i.imgur.com/Nb08dfK.png" group-title="Mundo | Nigeria",Salvation TV (Nigeria) (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SilverbirdNews24.ng@SD" tvg-logo="https://i.imgur.com/9jcV9oG.png" group-title="Mundo | Nigeria",Silverbird News 24 (576p)
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SunnaTV.ng@SD" tvg-logo="https://i.imgur.com/K2Snk2T.png" group-title="Mundo | Nigeria",Sunna TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperscreenTV.ng@SD" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="Mundo | Nigeria",Superscreen TV (412p)
@@ -12361,6 +12641,8 @@ https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
 https://jmp2.uk/plu-61f957e051cca800076f2358.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSnooker900.se@NO" tvg-logo="https://images.pluto.tv/channels/68ac5543a1ac0c90f2c8943e/colorLogoPNG_1760517341343.png" group-title="Mundo | Norway",Pluto TV Snooker 900 (Sweden) NO (720p)
 https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
+#EXTINF:-1 tvg-id="PlutoTVSport.se@NO" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="Mundo | Norway",Pluto TV Sport (Sweden) NO
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTegnefilm.se@NO" tvg-logo="https://images.pluto.tv/channels/61c09938e0d3a700072b68b1/colorLogoPNG_1749627293329.png" group-title="Mundo | Norway",Pluto TV Tegnefilm NO (720p)
 https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTrueCrime.se@NO" tvg-logo="https://images.pluto.tv/channels/615333098185f00008715a56/colorLogoPNG.png" group-title="Mundo | Norway",Pluto TV True Crime (Sweden) NO
@@ -12471,22 +12753,6 @@ https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 https://falak.rst.ae/index.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk@SD" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Mundo | Pakistan",Fazal TV (1080p)
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@English" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Mundo | Pakistan",God Stands Kids Club TV
-https://online.godstands.tv:5443/WebRTCApp/streams/kidsenglish.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Arabic" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Mundo | Pakistan",God Stands Kids Club TV Arabic
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsArabic.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Chinese" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Mundo | Pakistan",God Stands Kids Club TV Chinese
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
-#EXTINF:-1 tvg-id="GodStandsKidsClubTV.pk@Urdu" tvg-logo="https://i.imgur.com/FxDBbpz.jpeg" group-title="Mundo | Pakistan",God Stands Kids Club TV Urdu
-https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@Arabic" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Mundo | Pakistan",God Stands TV Arabic
-https://online.godstands.tv:5443/WebRTCApp/streams/Arabic.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@English" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Mundo | Pakistan",God Stands TV English
-https://online.godstands.tv:5443/WebRTCApp/streams/EnglishStreaming.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@Punjabi" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Mundo | Pakistan",God Stands TV Punjabi
-https://online.godstands.tv:5443/WebRTCApp/streams/PunjabiStreaming.m3u8
-#EXTINF:-1 tvg-id="GodStandsTV.pk@Tagalog" tvg-logo="https://i.imgur.com/EO6cYUI.png" group-title="Mundo | Pakistan",God Stands TV Tagalog
-https://online.godstands.tv:5443/WebRTCApp/streams/Tagalog.m3u8
 #EXTINF:-1 tvg-id="GraceNetwork.pk@SD" tvg-logo="https://i.imgur.com/QSaZPJ4.png" group-title="Mundo | Pakistan",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HumTV.pk@HD" tvg-logo="https://i.ibb.co/Tx4GfKT5/Hum-TV-HD.png" group-title="Mundo | Pakistan",Hum TV (720p)
@@ -12509,6 +12775,8 @@ https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 https://cdn.rabta.stream/M-News/index.m3u8
 #EXTINF:-1 tvg-id="MSports.pk@SD" tvg-logo="https://msports.pk/wp-content/uploads/2026/02/m-sports-300.png" group-title="Mundo | Pakistan",M Sports (1080p)
 https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" tvg-logo="https://i.imgur.com/Abi9j0A.png" group-title="Mundo | Pakistan",Madani Channel English (720p)
+http://tvsen7.aynascope.net/MadaniTV/index.m3u8
 #EXTINF:-1 tvg-id="MadaniChannelUrdu.pk@SD" tvg-logo="https://i.imgur.com/MitLeCJ.png" group-title="Mundo | Pakistan",Madani Channel Urdu (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8
 #EXTINF:-1 tvg-id="Minimax.pk@SD" tvg-logo="https://i.imgur.com/TJvf8vd.png" group-title="Mundo | Pakistan",Minimax (Pakistan) (360p)
@@ -12599,6 +12867,8 @@ https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8
 https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8
 #EXTINF:-1 tvg-id="AltMediaTV.py@SD" tvg-logo="https://i.imgur.com/YkOgWMc.png" group-title="Mundo | Paraguay",Alt Media TV
 https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8
+#EXTINF:-1 tvg-id="AmericaParaguay.py@SD" tvg-logo="https://i.imgur.com/rCEu3fM.png" group-title="Mundo | Paraguay",America Paraguay (720p)
+http://45.170.130.224:8000/play/a02o/index.m3u8?hls
 #EXTINF:-1 tvg-id="BrunoMasiTV.py@SD" tvg-logo="https://i.ibb.co/QFmyjZN/unnamed-1.png" group-title="Mundo | Paraguay",Bruno Masi TV (720p)
 https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8
 #EXTINF:-1 tvg-id="CADTV.py@SD" tvg-logo="https://i.imgur.com/lafmmRa.jpeg" group-title="Mundo | Paraguay",CAD TV
@@ -12623,8 +12893,6 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="Educanal.py@SD" tvg-logo="https://i.imgur.com/857OkFf.png" group-title="Mundo | Paraguay",Educanal (1080p)
 http://190.128.214.97:64333/play/a011/index.m3u8
-#EXTINF:-1 tvg-id="FarraPlay.py@SD" tvg-logo="https://i.imgur.com/bXWzstH.png" group-title="Mundo | Paraguay",Farra Play (576p)
-https://stream.farra.com.py/live/farra_low.m3u8
 #EXTINF:-1 tvg-id="GOTV.py@SD" tvg-logo="https://i.ibb.co/jkvYVyz/Captura.png" group-title="Mundo | Paraguay",GO TV (720p)
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1 tvg-id="HEiNow.py@SD" tvg-logo="https://i.imgur.com/oMHiGRN.png" group-title="Mundo | Paraguay",HEi Now (1080p)
@@ -12653,8 +12921,6 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py@SD" tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="Mundo | Paraguay",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
-#EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="Mundo | Paraguay",Oviedo TV
-https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
 #EXTINF:-1 tvg-id="ParaguayTV.py@SD" tvg-logo="https://i.imgur.com/TWnTZ3c.png" group-title="Mundo | Paraguay",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Mundo | Paraguay",Paravision
@@ -12691,6 +12957,8 @@ http://45.170.130.224:8000/play/a04k/index.m3u8?hls
 http://45.170.130.224:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVAire.py@SD" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="Mundo | Paraguay",TV Aire (1080p)
 http://190.128.214.97:64333/play/a05y/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py@SD" tvg-logo="https://i.imgur.com/Mfypr0t.png" group-title="Mundo | Paraguay",TV Camara (Paraguay) (1080p)
+http://45.170.130.224:8000/play/a03x/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVCanindeyu.py@SD" tvg-logo="https://i.imgur.com/cateqjx.jpeg" group-title="Mundo | Paraguay",TV Canindeyu (1080p)
 https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8
 #EXTINF:-1 tvg-id="Unicanal.py@SD" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Mundo | Paraguay",Unicanal
@@ -12797,6 +13065,8 @@ http://92.114.85.87:8010/play/a00e/index.m3u8
 https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="Moconomy.pl@SD" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/9da0ec4d-85ea-45f4-b3f9-ae917d1714f9-width200-quality90.jpeg" group-title="Mundo | Poland",Moconomy
 https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:-1 tvg-id="MonsterJam.us@SD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png" group-title="Mundo | Poland",Monster Jam (720p)
+https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8
 #EXTINF:-1 tvg-id="NewsWorld.hk@FAST" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" group-title="Mundo | Poland",NewsWorld (1080p)
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-id="NewTV.pl@SD" tvg-logo="https://i.imgur.com/fH8rKs3.png" group-title="Mundo | Poland",NewTV (1080p)
@@ -13111,8 +13381,6 @@ https://jobtvserver.eu/hls/stream.m3u8
 https://stream1.kanald.ro/iphone/knd-live.m3u8
 #EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="Mundo | Romania",Kanal D2 (1080i)
 https://stream2.kanald.ro/iphone/knd2-live.m3u8
-#EXTINF:-1 tvg-id="KissTV.ro@SD" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Mundo | Romania",Kiss TV (1080p)
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png" group-title="Mundo | Romania",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Romania",Digi Sport 1 HD (576i)
 https://dokagents.site/live/digisport1/mono.m3u8
 #EXTINF:-1 tvg-id="PROTV.ro@SD" tvg-logo="https://i.imgur.com/zVk3WlT.png" group-title="Mundo | Romania",like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Romania",PRO TV (576i)
@@ -13135,8 +13403,6 @@ https://dokagents.site/live/proarena/mono.m3u8
 https://dokagents.site/live/romaniatv/mono.m3u8
 #EXTINF:-1 tvg-id="LiraTV.es@SD" tvg-logo="https://i.imgur.com/hBswXYZ.png" group-title="Mundo | Romania",LiraTV (720p)
 https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
-#EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Mundo | Romania",Magic TV (Romania) (720p)
-https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 #EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Mundo | Romania",MediCOOL TV
 https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1 tvg-id="MetropolaTV.ro@SD" tvg-logo="https://i.imgur.com/Gzq05v8.png" group-title="Mundo | Romania",Metropola TV (1080p) [Not 24/7]
@@ -13189,8 +13455,6 @@ https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaStar.ro@SD" tvg-logo="https://i.imgur.com/bNdpyAZ.png" group-title="Mundo | Romania",Realitatea Star (576i)
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Mundo | Romania",Rock TV (Romania) (720p)
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="ROTVValencia.es@SD" tvg-logo="https://i.imgur.com/0TDnVQ4.png" group-title="Mundo | Romania",ROTV Valencia (720p)
 https://rotv.romediavalencia.com:3839/live/rotvlive.m3u8
 #EXTINF:-1 tvg-id="SperantaTV.ro@SD" tvg-logo="https://i.imgur.com/KUyqQCX.png" group-title="Mundo | Romania",SperantaTV (1080p)
@@ -13201,8 +13465,6 @@ http://iptv.supertv.ro:8000/play/a001/index.m3u8
 https://hls02ns.antenaplay.ro/hls/taraf-tv-sd/index.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="Mundo | Romania",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Mundo | Romania",Tele7music (576i)
-https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="Mundo | Romania",TeleM Botosani (540p) [Not 24/7]
 http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="Telestar1.ro@SD" tvg-logo="https://i.imgur.com/BTKh5ef.png" group-title="Mundo | Romania",Telestar1
@@ -13245,10 +13507,14 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSat.ro@SD" tvg-logo="https://i.imgur.com/54GHZMv.png" group-title="Mundo | Romania",TVSat (576p) [Not 24/7]
 http://89.38.8.130:39443
+#EXTINF:-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png" group-title="Mundo | Russia",.black (576p)
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@SD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Mundo | Russia",.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1 tvg-id="red.ru@HD" tvg-logo="https://i.imgur.com/GET9Qut.png" group-title="Mundo | Russia",.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png" group-title="Mundo | Russia",.sci-fi (576p)
+http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-id="1HDMusicTelevision.ru@HD" tvg-logo="https://i.imgur.com/4Ww7CsR.png" group-title="Mundo | Russia",1HD Music Television (1080p)
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 tvg-id="2x2.ru@SD" tvg-logo="https://i.imgur.com/fhQFLEl.png" group-title="Mundo | Russia",2x2 (576i)
@@ -13301,10 +13567,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 http://stream.mcquack.net/364/index.m3u8
 #EXTINF:-1 tvg-id="BollywoodHD.ro@Russia" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Mundo | Russia",Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru@HD" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="Mundo | Russia",BRIDGE Deluxe HD (576p)
-http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 tvg-id="BRIDGEHits.ru@SD" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="Mundo | Russia",BRIDGE Hits (576p)
-http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGERock.ru@SD" tvg-logo="https://i.imgur.com/MHuwct2.png" group-title="Mundo | Russia",BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1 tvg-id="BST.ru@SD" tvg-logo="https://i.imgur.com/IDotHmQ.png" group-title="Mundo | Russia",BST (576p)
@@ -13333,6 +13595,8 @@ http://dancehits80.denvs.ru:8080/index.m3u8
 https://stream8.cinerama.uz/1033/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dikayaokhota.ru@HD" tvg-logo="https://i.imgur.com/EOue13e.png" group-title="Mundo | Russia",Dikaya okhota HD (1080p)
 http://stream.mcquack.net/274/index.m3u8
+#EXTINF:-1 tvg-id="Dikayarybalka.ru@HD" tvg-logo="https://i.imgur.com/e3BFVgt.png" group-title="Mundo | Russia",Dikaya rybalka HD (1080p)
+http://stream.mcquack.net/275/index.m3u8
 #EXTINF:-1 tvg-id="Domkino.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/960px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Mundo | Russia",Dom kino (576p)
 http://stream.mcquack.net/236/index.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@HD" tvg-logo="https://i.imgur.com/rJpQtvK.png" group-title="Mundo | Russia",Dom kino Premium HD (1080p)
@@ -13397,8 +13661,6 @@ http://stream.mcquack.net/144/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="KinoTV.ru@HD" tvg-logo="https://i.imgur.com/sMpamNO.png" group-title="Mundo | Russia",Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1 tvg-id="KinoHit.ru@SD" tvg-logo="https://i.imgur.com/Ge8vkQM.png" group-title="Mundo | Russia",KinoHit (576p)
-http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1 tvg-id="Kinokomedija.ru@SD" tvg-logo="https://i.imgur.com/dVjtth0.png" group-title="Mundo | Russia",Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1 tvg-id="Kinomix.ru@SD" tvg-logo="https://i.imgur.com/D4q2XUT.png" group-title="Mundo | Russia",Kinomix (576p)
@@ -13535,6 +13797,8 @@ http://stream.mcquack.net/155/index.m3u8
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="OsetiyaIryston.ru@SD" tvg-logo="https://i.imgur.com/N0Zn4zU.png" group-title="Mundo | Russia",Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+#EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="Mundo | Russia",OSN
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1 tvg-id="Ostrosyuzhetnoye.ru@HD" tvg-logo="https://i.imgur.com/NwQ7GBy.png" group-title="Mundo | Russia",Ostrosyuzhetnoye HD (1080p)
 http://stream.mcquack.net/214/index.m3u8
 #EXTINF:-1 tvg-id="OtkritiymirZdorove.ru@SD" tvg-logo="https://i.imgur.com/7orZOJA.png" group-title="Mundo | Russia",Otkritiy mir. Zdorove (576p)
@@ -13547,8 +13811,8 @@ https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" tvg-logo="https://i.imgur.com/ti4OMBv.png" group-title="Mundo | Russia",Pervyy Respublikanskiy
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 tvg-id="Premialnoe.ru@HD" tvg-logo="https://i.imgur.com/ck4aLBP.png" group-title="Mundo | Russia",Premialnoe HD (1080p)
-http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 tvg-id="Pes.ru@SD" tvg-logo="https://cdn2-static.ntv.ru/home/promo/24740/pes_llive.jpg" group-title="Mundo | Russia",Pes (1080p)
+https://cdn-dvr.ntv.ru/Pes/index.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@SD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="Mundo | Russia",Priklyucheniya (576p)
 https://stream8.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Priklyucheniya.ru@HD" tvg-logo="https://i.imgur.com/qQ6pPPQ.png" group-title="Mundo | Russia",Priklyucheniya HD (1080p)
@@ -13569,8 +13833,6 @@ https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1 tvg-id="Retro.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/69.png" group-title="Mundo | Russia",Retro (576p)
 http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1 tvg-id="RodnoeKino.ru@SD" tvg-logo="https://i.imgur.com/H70LxoZ.png" group-title="Mundo | Russia",Rodnoe Kino (576p)
-http://stream.mcquack.net/242/index.m3u8
 #EXTINF:-1 tvg-id="RTBalkan.ru@SD" tvg-logo="https://pbs.twimg.com/media/FiHmjBrWIBsN41d.jpg" group-title="Mundo | Russia",RT Balkan (1080p)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Mundo | Russia",RT Documentary Russian (1080p)
@@ -13583,6 +13845,8 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 http://31.148.5.241/kanal_21/index.m3u8
 #EXTINF:-1 tvg-id="Russia1.ru@HD" tvg-logo="https://uut-telecom.ru/wp-content/uploads/2021/12/rossiya-1-hd.png" group-title="Mundo | Russia",Russia-1 HD (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Mundo | Russia",Russia-K (576p)
+http://stream.mcquack.net/229/index.m3u8
 #EXTINF:-1 tvg-id="RussiaK.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/960px-Russia-Cultura.svg.png" group-title="Mundo | Russia",Russia-K HD (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1 tvg-id="RussianExtremeUltra.ru@SD" tvg-logo="https://i.imgur.com/Dk8VbAc.png" group-title="Mundo | Russia",Russian Extreme Ultra (1440p)
@@ -13853,6 +14117,8 @@ https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-big-time-plus/924283f994779a311c1389698ff7e736/index.m3u8
 #EXTINF:-1 tvg-id="Fairuz.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/f809d51c-e83d-43c9-8236-78731c2216ad?type=png" group-title="Mundo | Saudi Arabia",Fairuz (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-id="HolyQuranRadio.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/14/da/fullhd_823bc2fe722ede75410492d57fd6c201208b4224.png" group-title="Mundo | Saudi Arabia",Holy Quran Radio (1080p)
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaAfricaEurope.sa@SD" tvg-logo="https://i.imgur.com/nUlZvSe.png" group-title="Mundo | Saudi Arabia",Iqraa Africa & Europe (1080p)
 https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
 #EXTINF:-1 tvg-id="IqraaArabic.sa@SD" tvg-logo="https://i.imgur.com/HPVsIa4.png" group-title="Mundo | Saudi Arabia",Iqraa Arabic (1080p) [Not 24/7]
@@ -13913,6 +14179,8 @@ https://vdo2.pro-fhi.net:3297/stream/play.m3u8
 https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="IDJTV.rs@SD" tvg-logo="https://i.imgur.com/btvyrzr.png" group-title="Mundo | Serbia",IDJTV
 https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-logo="https://i.imgur.com/WcGKc4C.png" group-title="Mundo | Serbia",like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Serbia",Kitchen TV
+http://213.91.179.28:8000/play/a03n
 #EXTINF:-1 tvg-id="DMSat.rs@SD" tvg-logo="https://i.imgur.com/LdeA1Cn.png" group-title="Mundo | Serbia",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Serbia",DM Sat (576p)
 https://shift03.isp.bg/DMSat/index.m3u8
 #EXTINF:-1 tvg-id="Nova.rs@SD" tvg-logo="https://i.imgur.com/sU8UPPY.png" group-title="Mundo | Serbia",Nova (Serbia) (1080p)
@@ -14761,6 +15029,8 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtpayqrfkgirxelive/broadcast_5e91
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Mundo | Turkiye",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1 tvg-id="MeltemTV.tr@SD" tvg-logo="https://i.imgur.com/C3m6w5S.png" group-title="Mundo | Turkiye",Meltem TV (1080p)
+https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="MercanTV.tr@SD" tvg-logo="https://i.imgur.com/3CWV8bS.png" group-title="Mundo | Turkiye",Mercan TV (576p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_mercantv/mercantv/playlist.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Mundo | Turkiye",Minika Cocuk (720p)
@@ -14807,8 +15077,6 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?app=a20ac41e-bdc3-4aa1-934d-2
 https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TBMMTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TBMM_TV_logo.svg/960px-TBMM_TV_logo.svg.png" group-title="Mundo | Turkiye",TBMM TV (720p)
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:-1 tvg-id="Tele1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="Mundo | Turkiye",Tele 1 (1080p)
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="TempoTV.tr@SD" tvg-logo="https://i.imgur.com/tZpx32y.png" group-title="Mundo | Turkiye",Tempo TV (720p)
 https://live.artidijitalmedya.com/artidijital_tempotv/tempotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr@SD" tvg-logo="https://i.imgur.com/VwWTnf0.png" group-title="Mundo | Turkiye",TGRT Belgesel (576p) [Not 24/7]
@@ -14917,14 +15185,14 @@ https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 http://stream.mcquack.net/258/index.m3u8
 #EXTINF:-1 tvg-id="4everDrama.ua@SD" tvg-logo="https://i.imgur.com/CD3vZU6.png" group-title="Mundo | Ukraine",4ever Drama (1080p)
 http://stream.mcquack.net/260/index.m3u8
-#EXTINF:-1 tvg-id="4everMusic.ua@SD" tvg-logo="https://i.imgur.com/UJ5oaeU.png" group-title="Mundo | Ukraine",4ever Music (1080p)
-http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 tvg-id="4everTheater.ua@SD" tvg-logo="https://i.imgur.com/kfngtev.png" group-title="Mundo | Ukraine",4ever Theater (1080p)
 http://stream.mcquack.net/259/index.m3u8
 #EXTINF:-1 tvg-id="ApostropheTV.ua@SD" tvg-logo="https://i.imgur.com/LCXvbQX.png" group-title="Mundo | Ukraine",Apostrophe TV (1080p)
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
 #EXTINF:-1 tvg-id="ArmyTV.ua@SD" tvg-logo="https://i.imgur.com/pGByjbh.png" group-title="Mundo | Ukraine",Army TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+#EXTINF:-1 tvg-id="ATR.ua@SD" tvg-logo="https://i.imgur.com/lRJAXC7.png" group-title="Mundo | Ukraine",ATR (1080p)
+http://stream.mcquack.net/244/index.m3u8
 #EXTINF:-1 tvg-id="Avers.ua@SD" tvg-logo="https://i.imgur.com/rHHz94D.png" group-title="Mundo | Ukraine",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 tvg-id="Black.ua@SD" tvg-logo="https://i.imgur.com/iSzAO32.png" group-title="Mundo | Ukraine",Black (1080p)
@@ -14951,8 +15219,6 @@ https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
 http://stream.mcquack.net/261/index.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua@SD" group-title="Mundo | Ukraine",EWTN Ukraine (1080p)
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Fashion.ua@SD" tvg-logo="https://ukrtvr.org/images/%D1%82%D0%B5%D0%BB%D0%B5%D0%B2%D0%B5%D0%B6%D1%96/%D1%81%D1%82%D0%B0%D1%80%D1%96_%D0%BB%D0%BE%D0%B3%D0%BE/FASHION%20TV%20UKRAINE/FASHION%20TV%20UKRAINE.png" group-title="Mundo | Ukraine",Fashion (1080p)
-http://stream.mcquack.net/288/index.m3u8
 #EXTINF:-1 tvg-id="FashionTV.ua@SD" tvg-logo="https://i.imgur.com/Bk7W39G.png" group-title="Mundo | Ukraine",Fashion TV (1080p)
 http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="FilmUALive.ua@SD" tvg-logo="https://i.imgur.com/kizTBgS.png" group-title="Mundo | Ukraine",FilmUA Live
@@ -14991,8 +15257,6 @@ http://stream.mcquack.net/173/index.m3u8
 http://stream.mcquack.net/340/index.m3u8
 #EXTINF:-1 tvg-id="Bolt.ua@SD" tvg-logo="https://i.imgur.com/YdIHXOR.png" group-title="Mundo | Ukraine",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",Bolt (Ukraine) (1080p)
 http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ua@SD" tvg-logo="https://i.imgur.com/a9JJXPk.png" group-title="Mundo | Ukraine",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",Channel 5 (Ukraine) (1080p)
-http://stream.mcquack.net/291/index.m3u8
 #EXTINF:-1 tvg-id="EnterFilm.ua@SD" tvg-logo="https://i.imgur.com/wQbiGs6.png" group-title="Mundo | Ukraine",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",Enter-Film (1080p)
 http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-id="ICTV.ua@SD" tvg-logo="https://i.imgur.com/97W1NOW.png" group-title="Mundo | Ukraine",like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Ukraine",ICTV (Ukraine) (1080p)
@@ -15023,14 +15287,16 @@ http://stream.mcquack.net/327/index.m3u8
 http://stream.mcquack.net/449/index.m3u8
 #EXTINF:-1 tvg-id="DynamoKyivTV.ua@SD" tvg-logo="https://i.imgur.com/ymxmyyG.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Dynamo Kyiv TV (1080p)
 http://stream.mcquack.net/396/index.m3u8
-#EXTINF:-1 tvg-id="Fauna.ua@SD" tvg-logo="https://i.imgur.com/UwQcDTm.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Fauna (576p)
-http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1 tvg-id="Equalympic.ua@SD" tvg-logo="https://i.imgur.com/ixSj4H7.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Equalympic (1080p)
+http://stream.mcquack.net/485/index.m3u8
 #EXTINF:-1 tvg-id="ICTV2.ua@SD" tvg-logo="https://i.imgur.com/J4zlRGv.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",ICTV2 (1080p)
 http://stream.mcquack.net/368/index.m3u8
 #EXTINF:-1 tvg-id="InRatingTV.ua@SD" tvg-logo="https://i.imgur.com/l753AgQ.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",InRating TV (1080p)
 http://stream.mcquack.net/147/index.m3u8
 #EXTINF:-1 tvg-id="Kinoliving.ua@SD" tvg-logo="https://i.imgur.com/9XJcmBY.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Kinoliving (1080p)
 http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 tvg-id="Kinowood.ua@SD" tvg-logo="https://i.imgur.com/PQcXNBI.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Kinowood (1080p)
+http://stream.mcquack.net/446/index.m3u8
 #EXTINF:-1 tvg-id="LawTV.ru@SD" tvg-logo="https://i.imgur.com/X0Vp6fd.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Law TV (1080p)
 http://stream.mcquack.net/406/index.m3u8
 #EXTINF:-1 tvg-id="MasonTV.ua@SD" tvg-logo="https://i.imgur.com/lySRePP.png" group-title="Mundo | Ukraine",like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Ukraine",Mason TV (1080p)
@@ -15123,8 +15389,6 @@ https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" tvg-logo="https://i.imgur.com/8qdc6aO.png" group-title="Mundo | Ukraine",Pervyy gorodskoy. Odessa (576p)
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="PixelTV.ua@SD" tvg-logo="https://i.imgur.com/ECro8Ah.png" group-title="Mundo | Ukraine",Pixel TV (1080p)
-http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="Mundo | Ukraine",PTV (Ukraine) (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RadaTV.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Rada_TV_%282021%29.svg/960px-Rada_TV_%282021%29.svg.png" group-title="Mundo | Ukraine",Rada TV (720p)
@@ -15213,6 +15477,8 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
 #EXTINF:-1 tvg-id="Andromeda.us@UK" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="Mundo | United Kingdom",Andromeda UK
 https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
+#EXTINF:-1 tvg-id="AnthonyBourdainPartsUnknown.us@UK" tvg-logo="https://i.imgur.com/dAO9llk.png" group-title="Mundo | United Kingdom",Anthony Bourdain: Parts Unknown
+https://jmp2.uk/plu-69173ce8abd4703b27f71d44.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="Mundo | United Kingdom",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BeyondBeliefFactorFiction.us@UK" tvg-logo="https://i.imgur.com/3uXQg7Y.png" group-title="Mundo | United Kingdom",Beyond Belief: Fact or Fiction
@@ -15253,6 +15519,10 @@ https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 https://faithnow-hls.secdn.net/faithnow-c-channel/play/FaithUK.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FaithWorldTV.uk@SD" tvg-logo="https://i.imgur.com/RLHRjQ3.png" group-title="Mundo | United Kingdom",Faith World TV (1080p)
 https://faithworldtv.abs.tv/1826926230/index.m3u8
+#EXTINF:-1 tvg-id="FBIFiles.us@UK" tvg-logo="https://i.imgur.com/vzYDSLo.png" group-title="Mundo | United Kingdom",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Mundo | United Kingdom",FIFA+ (720p)
+https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8
 #EXTINF:-1 tvg-id="FIFAPlusWomen.uk@English" tvg-logo="https://i.imgur.com/xy9ZxVO.png" group-title="Mundo | United Kingdom",FIFA+ Women (720p)
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNews.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/960px-GB_News_Logo.svg.png" group-title="Mundo | United Kingdom",GB News (1080p)
@@ -15283,12 +15553,16 @@ https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.
 https://all3media-homes-under-the-hammer-1-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InsideCrime.us@UK" tvg-logo="https://i.imgur.com/wvQYWsj.png" group-title="Mundo | United Kingdom",Inside Crime (1080p)
 https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="IqraBangla.uk@SD" tvg-logo="https://i.imgur.com/BZBZAeC.png" group-title="Mundo | United Kingdom",Iqra Bangla (576p)
+https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
 #EXTINF:-1 tvg-id="KanshiTV.uk@SD" tvg-logo="https://i.imgur.com/w6uXMrK.png" group-title="Mundo | United Kingdom",Kanshi TV (720p) [Not 24/7]
 https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 #EXTINF:-1 tvg-id="LatestTV.uk@SD" tvg-logo="https://i.imgur.com/Cl1iGEb.jpeg" group-title="Mundo | United Kingdom",Latest TV (480p)
 https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnavisionTV.uk@SD" tvg-logo="https://i.imgur.com/mUHixbi.png" group-title="Mundo | United Kingdom",Magnavision TV (720p)
 https://manatv.akamaized.net/120723/smil:magnavision.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MarriedwithChildren.us@UK" tvg-logo="https://i.imgur.com/L9Epmtf.png" group-title="Mundo | United Kingdom",Married with Children
+https://jmp2.uk/plu-66bb3212fe11e5000883ea6b.m3u8
 #EXTINF:-1 tvg-id="McLeodsDaughters.us@UK" tvg-logo="https://i.imgur.com/q4BBDzw.png" group-title="Mundo | United Kingdom",McLeod's Daughters (1080p)
 https://amg00627-amg00627c5-samsung-nz-2807.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mcleodsdaughters-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="MiracleTV.uk@SD" tvg-logo="https://i.imgur.com/pTn8Vc3.png" group-title="Mundo | United Kingdom",Miracle TV (480p)
@@ -15527,6 +15801,8 @@ https://stream8.cinerama.uz/1002/tracks-v1a1/playlist.m3u8
 https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-logo="https://i.imgur.com/Qm88HT0.png" group-title="Mundo | Venezuela",ANTV (Venezuela) (720p)
 http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="Mundo | Venezuela",Anzoategui TV (360p) [Not 24/7]
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-logo="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" group-title="Mundo | Venezuela",AS3 Sport TV (1080p)
 https://streamtv.as3sport.online:3394/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-logo="https://i.imgur.com/vygOosC.png" group-title="Mundo | Venezuela",BTA TV (720p)
@@ -15575,6 +15851,8 @@ https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
 https://cdnbarinas.tvzamora.com/showven/index.m3u8
 #EXTINF:-1 tvg-id="SiembraTV.ve@SD" tvg-logo="https://i.imgur.com/zRX91Xr.png" group-title="Mundo | Venezuela",Siembra TV (Venezuela) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-id="SomosTV.ve@SD" tvg-logo="https://i.imgur.com/jOroeJZ.png" group-title="Mundo | Venezuela",Somos TV (720p) [Not 24/7]
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
 #EXTINF:-1 tvg-id="SunChannel.ve@SD" tvg-logo="https://i.imgur.com/B26qL3e.png" group-title="Mundo | Venezuela",Sun Channel (720p)
 http://168.196.127.137:6001/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="Mundo | Venezuela",TAM TV
@@ -16181,6 +16459,8 @@ https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
 #EXTINF:-1 tvg-name="STVR Live" tvg-logo=" Liv" tvg-country="SK" group-title="SK | Slovakia",STVR Live
 https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
+#EXTINF:-1 tvg-id="TA3.sk" tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" tvg-country="SK" group-title="SK | Slovakia",TA3
+https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 #EXTINF:-1 tvg-name="Hirshabelle TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hirshabelle-tvjpg-so.png" tvg-country="SO" group-title="SO | Somalia",Hirshabelle TV
 https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8
 #EXTINF:-1 tvg-id="SaabTV.so" tvg-name="Saab TV" tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-country="SO" group-title="SO | Somalia",Saab TV Ⓢ
